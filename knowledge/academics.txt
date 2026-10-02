@@ -1,0 +1,359 @@
+[ACADEMIC_PROGRAMS]
+Keywords: academic programs; courses offered; schools; departments; degree programmes; undergraduate; postgraduate; diploma; doctoral
+Aliases: what courses does CUTM offer; list of programmes; academic offerings; fields of study
+Overview: Centurion University offers undergraduate, postgraduate, diploma, and doctoral programmes through multiple schools covering engineering, management, agriculture, sciences, healthcare, pharmacy, design, law, media, and other disciplines.
+Details:
+  - Undergraduate (UG) programmes include BTech, BSc, BBA, BCom, BA, BPharm, BCA, and integrated degrees across all schools.
+  - Postgraduate (PG) programmes include MBA, MSc, MPharm, MCA, MA, and MTech in selected disciplines.
+  - Diploma programmes are available in engineering, pharmacy, healthcare, and vocational fields.
+  - Doctoral (PhD) programmes are offered in approved research areas across multiple schools.
+  - Programmes follow a choice-based credit system with skill-integrated curriculum.
+  - Course offerings and campus availability vary by academic session.
+Important Information:
+  - Programme availability differs by campus. Check the specific campus page for current offerings.
+  - Curriculum is regularly updated to meet industry and regulatory requirements.
+  - Skill courses and industry internships are integrated into most programmes.
+Related Topics:
+  SCHOOLS; BTECH; MBA; COURSE_DURATION; CURRICULUM
+
+[SCHOOLS]
+Keywords: schools; departments; engineering; management; agriculture; sciences; healthcare; pharmacy; law; media; design; CUTM schools
+Aliases: list of schools; academic schools; faculties; departments at CUTM; Centurion University schools
+Overview: CUTM delivers programmes through specialised schools covering engineering, technology, management, agriculture, sciences, healthcare, and other professional domains.
+Details:
+  - School of Engineering and Technology
+  - School of Allied and Healthcare Sciences
+  - School of Agricultural and Bio-Engineering
+  - School of Media and Communication
+  - M.S. Swaminathan School of Agriculture
+  - School of Applied Sciences
+  - School of Management
+  - School of Pharmacy and Life Sciences
+  - School of Forensic Sciences
+  - School of Maritime Studies
+  - School of Veterinary and Animal Sciences
+  - School of Biotechnology
+  - School of Nursing
+  - School of Design Studies
+  - School of Aerospace Engineering and Aviation Management
+  - School of Fisheries
+  - School of Law
+  - School of Vocational Education and Training
+  - School of Online Programs
+Important Information:
+  - The set of schools and programmes differs by campus.
+  - Not all schools are available at every campus.
+  - Each school has dedicated faculty, laboratories, and industry partnerships.
+Related Topics:
+  ACADEMIC_PROGRAMS; DEPARTMENTS; BTECH; MBA
+
+[DEPARTMENTS]
+Keywords: academic departments; teaching departments; subject areas; faculty departments
+Aliases: department list; subject departments
+Overview: Academic departments organise teaching, laboratories, faculty expertise, projects, research, and student mentoring within broader schools.
+Details:
+  - Engineering departments include Computer Science, Electronics and Communication, Civil, Mechanical, Electrical, Mining, Aerospace, and related disciplines.
+  - Science departments include Physics, Chemistry, Mathematics, Botany, Zoology, and Life Sciences.
+  - Other departments serve Management, Agriculture, Healthcare, Pharmacy, Design, Law, Media, and additional fields.
+Important Information:
+  - Department structure may vary by campus.
+  - Each department has dedicated faculty, lab facilities, and research areas.
+Related Topics:
+  SCHOOLS; ACADEMIC_PROGRAMS
+
+[BTECH]
+Keywords: BTech; Bachelor of Technology; engineering degree; four year programme; engineering branches; CSE; ECE; mechanical; civil
+Aliases: B.Tech; bachelor of engineering; BE; engineering admission; technology degree
+Overview: The Bachelor of Technology (BTech) is a four-year undergraduate engineering degree offered in multiple branches across CUTM campuses.
+Details:
+  - BTech is generally a four-year undergraduate engineering programme.
+  - Branches include Computer Science and Engineering, CSE with AI and Machine Learning, Electronics and Communication, Civil, Mechanical, Electrical and Electronics, Mining, Aerospace, Biotechnology, Agricultural Engineering, Dairy Technology, and Phytopharmaceuticals.
+  - Eligibility requires 10+2 with Physics, Chemistry, and Mathematics at 50% marks, with relaxation for reserved categories.
+  - Admission requires CUEE (Centurion University Entrance Examination) score.
+  - Lateral entry is available for diploma holders in engineering.
+Important Information:
+  - Branch availability varies by campus.
+  - Curriculum includes core engineering, skill courses, labs, projects, and industry internships.
+  - Specialisations may be offered within branches at selected campuses.
+Related Topics:
+  ELIGIBILITY; SPECIALIZATIONS; CURRICULUM; ADMISSION_PROCESS
+
+[MBA]
+Keywords: MBA; Master of Business Administration; management degree; two year programme; postgraduate management; MBA specializations
+Aliases: master of business administration; PG management; MBA admission; management programme
+Overview: The Master of Business Administration (MBA) is a two-year postgraduate programme that develops management and leadership skills.
+Details:
+  - MBA is generally a two-year postgraduate programme.
+  - Specialisations include Finance, Human Resources, Marketing, Data Analytics, Agribusiness Management, Healthcare Management, and Development Management.
+  - Admission requires graduation in any discipline plus entrance exam score.
+  - The curriculum includes core management subjects, electives, projects, and industry internships.
+Important Information:
+  - Specialisation availability may vary by campus.
+  - Check the current programme page for exact eligibility and selection criteria.
+Related Topics:
+  PG_ADMISSIONS; ELIGIBILITY; CURRICULUM
+
+[BBA]
+Keywords: BBA; Bachelor of Business Administration; undergraduate management; four year programme; business degree
+Aliases: bachelor of business administration; BBA programme; business management UG
+Overview: The Bachelor of Business Administration (BBA) is an undergraduate management programme that develops foundations in business and management.
+Details:
+  - BBA is generally a four-year undergraduate programme with industry-integrated options.
+  - Subjects include management, accounting, marketing, finance, human resources, entrepreneurship, communication, analytics, and experiential learning.
+  - Eligibility requires 10+2 in any stream.
+  - Admission requires CUEE score.
+Important Information:
+  - BBA (Healthcare Management) is also available as a specialised track.
+  - Curriculum includes projects, internships, and industry exposure.
+Related Topics:
+  ELIGIBILITY; UG_ADMISSIONS; CURRICULUM
+
+[MCA]
+Keywords: MCA; Master of Computer Applications; postgraduate computing; software development; programming; two year programme
+Aliases: master of computer applications; MCA programme; computer applications PG
+Overview: The Master of Computer Applications (MCA) is a two-year postgraduate programme that develops skills in software development, programming, and computing.
+Details:
+  - MCA is generally a two-year postgraduate programme.
+  - Curriculum covers software development, programming, databases, networks, web technologies, data-oriented subjects, and projects.
+  - Eligibility requires a bachelor's degree with mathematics at 10+2 or graduation level.
+Important Information:
+  - Campus availability and electives vary by session.
+  - Check the current programme page for exact eligibility.
+Related Topics:
+  PG_ADMISSIONS; ELIGIBILITY; CURRICULUM
+
+[BSC]
+Keywords: BSc; Bachelor of Science; undergraduate science; science programmes; applied sciences
+Aliases: bachelor of science; BSc programmes; science degree
+Overview: Centurion University offers Bachelor of Science (BSc) programmes in multiple science disciplines across various schools.
+Details:
+  - BSc programmes are available in Applied Mathematics, Zoology, Chemistry, Botany, Physics, and Forensic Science.
+  - BSc IT is available with focus on information technology.
+  - BSc Allied Health programmes include Medical Laboratory Technology, Medical Radiation Technology, Operation Theatre Technology, Emergency Medicine Technology, Anesthesia Technology, Clinical Microbiology, Optometry, and Health and Wellness.
+  - Eligibility requires 10+2 in Science stream with relevant subjects.
+  - Admission requires CUEE score.
+Important Information:
+  - Programme availability varies by campus.
+  - BSc Agriculture (Hons) and BSc Fisheries Science are offered at selected campuses.
+Related Topics:
+  ELIGIBILITY; UG_ADMISSIONS; SCHOOLS
+
+[SPECIALIZATIONS]
+Keywords: specializations; specialisations; elective tracks; programme branches; AI; data science; cyber security
+Aliases: specialisation options; branch choices; elective specialisations; focus areas
+Overview: CUTM offers specialisations within many programmes, allowing students to focus on specific areas of study aligned with industry needs.
+Details:
+  - BTech specialisations include Artificial Intelligence and Machine Learning, Data Science, Cyber Security, Automotive Design, Smart City, and Software Technology.
+  - MBA specialisations include Finance, Human Resources, Marketing, Data Analytics, Agribusiness Management, and Healthcare Management.
+  - BSc specialisations include Forensic Science, Clinical Microbiology, Medical Laboratory Technology, and Medical Radiation Technology.
+  - MSc specialisations include Microbiology, MLT, Cyber Security and Digital Forensics, Zoology, and Botany.
+  - Engineering specialisations at some campuses include Automotive Design, Cyber Security, Data Science and Machine Learning, Smart City, Software Technology, Biotech, and Automobile Engineering.
+Important Information:
+  - Specialisation availability depends on the campus and school.
+  - Not all specialisations are offered every academic year.
+  - Some specialisations require additional eligibility criteria.
+Related Topics:
+  BTECH; MBA; BSC; CURRICULUM
+
+[CURRICULUM]
+Keywords: curriculum; course structure; syllabus; academic curriculum; skill courses; credit system
+Aliases: course content; subjects taught; programme curriculum; academic syllabus
+Overview: CUTM curricula combine academic foundations with skill courses, laboratories, projects, production experience, internships, and industry exposure.
+Details:
+  - Curriculum follows a choice-based credit system with core, elective, and skill components.
+  - Skill courses and industry internships are integrated into most programmes.
+  - Project-based learning and production lab experience are part of the curriculum.
+  - Curriculum details differ by programme, batch, and regulatory requirements.
+  - Curriculum may be revised through academic governance to meet industry needs.
+Important Information:
+  - Students should use the syllabus or course structure issued for their own batch.
+  - Curriculum updates are published by the respective school or department.
+Related Topics:
+  ACADEMIC_PROGRAMS; COURSE_DURATION; SEMESTER_SYSTEM
+
+[COURSE_DURATION]
+Keywords: course duration; programme length; years of study; BTech duration; MBA duration; diploma duration; PhD duration
+Aliases: how many years; programme duration; length of course; study period
+Overview: Course duration at CUTM depends on the programme and entry route. The current programme page and admission letter provide the definitive duration.
+Details:
+  - BTech: 4 years (lateral entry: 3 years).
+  - BBA, BSc, BCom, BA: 3 to 4 years depending on programme structure.
+  - BPharm: 4 years.
+  - MBA, MCA, MSc, MA: 2 years.
+  - MPharm: 2 years.
+  - Diploma in Engineering: 3 years (lateral entry: 2 years).
+  - Diploma in Pharmacy: 2 years.
+  - Certificate courses: 6 months to 2 years depending on the programme.
+  - PhD: Minimum 3 years, varies by research progress.
+Important Information:
+  - Duration may vary based on curriculum revisions and regulatory requirements.
+  - Lateral entry options reduce duration for eligible students.
+  - Integrated programmes may have longer durations.
+Related Topics:
+  CURRICULUM; BTECH; MBA; DIPLOMA_ADMISSIONS
+
+[SEMESTER_SYSTEM]
+Keywords: semester system; academic term; examination system; credits; grading; academic year
+Aliases: semester pattern; term system; academic schedule; examination pattern
+Overview: CUTM follows a semester-based academic system with continuous evaluation, credit-based course structure, and end-semester examinations.
+Details:
+  - The academic year is divided into two semesters (odd and even).
+  - Each semester includes course instruction, practical sessions, internal assessments, and end-semester examinations.
+  - Courses are assigned credits based on contact hours and learning outcomes.
+  - Students must earn a minimum number of credits to progress to the next year and to graduate.
+Important Information:
+  - The grading system follows university regulations as published in the academic ordinances.
+  - Examination schedules are published by the examination department.
+  - Backlog or supplementary examinations are conducted as per university policy.
+Related Topics:
+  CURRICULUM; ACADEMIC_CALENDAR; COURSE_DURATION
+
+[ACADEMIC_CALENDAR]
+Keywords: academic calendar; important dates; semester schedule; exam schedule; holiday list; registration dates
+Aliases: academic schedule; term dates; university calendar; semester dates
+Overview: The academic calendar includes semester start and end dates, examination periods, holidays, registration deadlines, and other important academic events.
+Details:
+  - The academic calendar is published by the university at the start of each academic year.
+  - It includes dates for course registration, instruction periods, internal assessments, end-semester examinations, and result publication.
+  - Holiday lists are published separately and include national holidays, festival holidays, and semester breaks.
+  - Each school may publish a specific academic calendar for its programmes.
+Important Information:
+  - Always refer to the current academic calendar for the ongoing session.
+  - Calendar dates may vary between campuses.
+  - Check the university website or school notice board for updates.
+Related Topics:
+  SEMESTER_SYSTEM; CURRICULUM; IMPORTANT_DATES
+
+[EXAMINATION_SYSTEM]
+Keywords: examination; exams; assessment; grading; internal assessment; end semester exam; supplementary exam
+Aliases: exam pattern; evaluation system; test system; how exams work; assessment method
+Overview: CUTM follows a continuous evaluation system with internal assessments, end-semester examinations, and practical evaluations.
+Details:
+  - Internal assessment includes mid-semester tests, assignments, quizzes, presentations, and project work.
+  - End-semester examinations are conducted at the conclusion of each semester.
+  - Practical examinations and viva voce are conducted for laboratory courses.
+  - The grading system uses letter grades with corresponding grade points.
+  - Supplementary or backlog examinations are conducted as per university policy.
+Important Information:
+  - Minimum attendance requirements must be met to appear for examinations.
+  - Examination schedules are published well in advance.
+  - Results are published through the university examination portal.
+Related Topics:
+  SEMESTER_SYSTEM; ACADEMIC_CALENDAR; CURRICULUM
+
+[RESEARCH]
+Keywords: research; PhD; doctoral programmes; research areas; research labs; research centres; publications
+Aliases: research programmes; research opportunities; PhD research; research facilities
+Overview: CUTM offers doctoral (PhD) programmes in approved research areas across multiple schools. Research is conducted through dedicated labs, centres, and industry collaborations.
+Details:
+  - PhD admission requires a relevant postgraduate qualification with minimum marks.
+  - Selection involves application review, entrance test (or national-level test exemption), interview, and university approval.
+  - Research areas include engineering, management, agriculture, sciences, pharmacy, healthcare, and other disciplines.
+  - The university has multiple research centres and production labs supporting applied research.
+  - Faculty and students publish research papers in journals and conferences.
+Important Information:
+  - Check the current PhD notification for vacancies, supervisor availability, and deadlines.
+  - PhD duration is minimum 3 years, depending on research progress.
+  - Research scholars must meet publication requirements as per university policy.
+Related Topics:
+  PHD_ADMISSIONS; SCHOOLS; CURRICULUM
+
+[ACADEMIC_PROJECTS]
+Keywords: academic projects; skill courses; certificate programmes; vocational training; drone training; solar installation; vermicomposting
+Aliases: project based learning; skill development; vocational programmes; hands-on training
+Overview: CUTM offers project-based and skill-oriented academic engagements including certificate programmes in various vocational and technical areas.
+Details:
+  - Certificate programmes include Drone Operators Training, Advanced Cadastral Survey and Digital Map Preparation, X-Ray Technician, Vermicomposting Farming, Solar Thermal Engineering, and Solar PV Installation.
+  - Students are assigned to in-house production units for hands-on learning including Centurion Coffee Connect, Apparel Manufacturing, Precision Machining, Transformer Unit, Electric Vehicle Unit, and Wood Engineering Lab.
+  - Project-based learning is integrated into the curriculum across most programmes.
+Important Information:
+  - Certificate programme availability may vary by campus and session.
+  - Skill courses are integrated into degree programmes under the National Credit Framework.
+Related Topics:
+  CURRICULUM; SCHOOLS; SPECIALIZATIONS
+
+[AI]
+Keywords: artificial intelligence; machine learning; AI courses; AI specialisation; data science; intelligent systems
+Aliases: AI programme; artificial intelligence course; machine learning course; AI ML
+Overview: The Artificial Intelligence course pathway at CUTM is taught through programmes and specialisations such as CSE with AI and Machine Learning.
+Details:
+  - AI is offered as a specialisation within BTech Computer Science and Engineering.
+  - Subjects include machine learning, data analysis, algorithms, intelligent systems, computer vision, natural language processing, and responsible AI.
+  - Students work on AI-related projects, labs, hackathons, and industry applications.
+Important Information:
+  - AI specialisation availability depends on the campus.
+  - Check the current programme page for exact curriculum and eligibility.
+Related Topics:
+  BTECH; SPECIALIZATIONS; CSE
+
+[CSE]
+Keywords: computer science engineering; CSE; computer science; programming; software engineering; data structures; algorithms; networking
+Aliases: computer science; CS; computer engineering; software engineering programme
+Overview: Computer Science and Engineering (CSE) at CUTM covers programming, data structures, algorithms, computer networks, databases, operating systems, and software engineering.
+Details:
+  - CSE is offered as a BTech programme with specialisations including AI and Machine Learning, Data Science, and Cyber Security.
+  - Subjects include programming, data structures, algorithms, computer networks, databases, operating systems, software engineering, and electives.
+  - Curriculum includes practical laboratories, projects, and industry internships.
+  - Programme and fee differences exist across campuses.
+Important Information:
+  - CSE is available at selected CUTM campuses.
+  - Specialisation options vary by campus.
+Related Topics:
+  BTECH; SPECIALIZATIONS; AI
+
+[ECE]
+Keywords: electronics and communication engineering; ECE; electronics; communication systems; embedded systems; signals
+Aliases: electronics engineering; communication engineering; ECE programme
+Overview: Electronics and Communication Engineering (ECE) at CUTM focuses on electronic circuits, communication systems, signals, embedded systems, and digital technologies.
+Details:
+  - Subjects include electronic circuits, communication systems, signals and systems, embedded systems, digital technologies, and control applications.
+  - Curriculum includes laboratory work, projects, and industry exposure.
+  - BTech ECE is offered at selected CUTM campuses.
+Important Information:
+  - ECE availability varies by campus and admission session.
+  - Check the current programme page for exact curriculum and eligibility.
+Related Topics:
+  BTECH; SPECIALIZATIONS; CURRICULUM
+
+[CIVIL]
+Keywords: civil engineering; structures; construction; surveying; transportation; water resources; geotechnical
+Aliases: civil engineering programme; civil; infrastructure engineering
+Overview: Civil Engineering at CUTM covers structures, construction materials and management, surveying, geotechnical engineering, transportation, water resources, and environmental engineering.
+Details:
+  - Subjects include structural analysis, construction materials, surveying, geotechnical engineering, transportation engineering, water resources, and environmental engineering.
+  - Curriculum includes design tools, fieldwork, laboratories, and projects.
+  - Civil Engineering is available at selected campuses in diploma, undergraduate, or postgraduate formats.
+Important Information:
+  - Programme format (diploma/UG/PG) varies by campus.
+  - Check the current programme page for availability.
+Related Topics:
+  BTECH; DIPLOMA_ADMISSIONS; CURRICULUM
+
+[MECHANICAL]
+Keywords: mechanical engineering; mechanics; manufacturing; thermal engineering; design; automation; CAD
+Aliases: mechanical engineering programme; mechanical; ME
+Overview: Mechanical Engineering at CUTM includes mechanics, manufacturing, thermal engineering, design, materials, automation, and production systems.
+Details:
+  - Subjects include mechanics, manufacturing processes, thermal engineering, machine design, materials science, automation, and computer-aided engineering.
+  - Curriculum includes laboratories, workshops, and projects.
+  - CUTM's practical model connects the discipline with production labs and industry-oriented skills.
+Important Information:
+  - Mechanical Engineering is available at selected campuses.
+  - Check the current programme page for exact curriculum and eligibility.
+Related Topics:
+  BTECH; CURRICULUM; SPECIALIZATIONS
+
+[RESEARCH_LABS]
+Keywords: research labs; production labs; industry labs; manufacturing units; action learning labs; innovation labs
+Aliases: laboratories; lab facilities; production units; research centres
+Overview: CUTM has multiple research and production labs that support hands-on learning, applied research, and industry collaboration.
+Details:
+  - On-campus production labs include Precision Machining Center, Transformer Manufacturing Unit, Electric Vehicle Manufacturing Lab, Apparel Manufacturing Unit, and Wood Engineering Lab.
+  - Industry-sponsored labs include Automotive Testing Lab (BOSCH) and Advanced Material Testing Lab.
+  - Action learning labs include Heavy Motor Vehicles Lab (Ashok Leyland, Eicher), Light Commercial Vehicle Lab (Hyundai), and Light Motor Vehicle Lab (Yamaha).
+  - Research facilities support genetics, genomics, biotechnology, pharmacy, food processing, and aquaculture research.
+Important Information:
+  - Lab availability differs by campus.
+  - Some labs are used for both academic training and commercial production.
+Related Topics:
+  RESEARCH; CURRICULUM; SCHOOLS

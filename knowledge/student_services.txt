@@ -1,0 +1,372 @@
+[PLACEMENTS]
+Keywords: placements; placement cell; career development; job offers; recruiters; training; placement statistics; campus recruitment; placement assistance; job placement; campus placement; recruitment; career opportunities; placement drive; placement record; highest package; average package; placement percentage; placement training; company visit
+Aliases: placement assistance; job placement; campus placement; recruitment; career opportunities; placement record; placement statistics; job offers; company placements
+Question Variations:
+What is the placement record?
+How is placement at CUTM?
+Which companies visit CUTM?
+Highest package?
+Average package?
+Placement percentage?
+Does CUTM have good placements?
+How many students got placed?
+Placement training?
+What is the Career Development Cell?
+Overview: CUTM has a Career Development Cell (CDC) that provides placement training, company engagement, and recruitment support for students across all programmes.
+Details:
+  - The Career Development Cell provides a platform for collaboration between students and companies.
+  - Activities include career guidance, employability and aptitude training, communication skills, resume support, mock interviews, employer engagement, internship support, and placement drives.
+  - Placement statistics for the 2025 graduate batch: Highest CTC 16 LPA, Average CTC 4.65 lakhs, 39 students with CTC more than 7 lakhs, 90% placement success, 202 total recruiters.
+  - Students receive company-specific training from placement trainers.
+  - A Placement Handbook and Placement Brochure are available for download from the university website.
+  - Placement drives are conducted throughout the academic year across all campuses.
+  - Top recruiters include companies from IT, manufacturing, banking, consulting, healthcare, and education sectors.
+Important Information:
+  - Placement outcomes depend on student performance, market conditions, and company requirements.
+  - The CDC supports students but does not guarantee placement.
+  - Contact the Career Development Cell at your campus for specific placement-related queries.
+  - Students are encouraged to participate in training programmes from the first year itself.
+FAQs:
+Q: What is the highest package offered at CUTM?
+A: The highest CTC for the 2025 batch was 16 LPA.
+Q: What is the average package?
+A: The average CTC for the 2025 batch was 4.65 lakhs per annum.
+Q: What is the placement percentage?
+A: CUTM achieved 90% placement success for the 2025 graduate batch.
+Q: How many recruiters visit CUTM?
+A: 202 recruiters participated in campus placements for the 2025 batch.
+Q: Which companies recruit from CUTM?
+A: Recruiters include companies from IT, manufacturing, banking, consulting, healthcare, and education sectors. Contact the CDC for the current list.
+Q: Does CUTM provide placement training?
+A: Yes, the CDC provides company-specific training, aptitude training, communication skills, resume support, and mock interviews.
+Q: Is placement guaranteed?
+A: The CDC supports all students with training and placement opportunities, but placement is not guaranteed — it depends on student performance and company requirements.
+Related Topics:
+  INTERNSHIPS; CAREER_CELL; ALUMNI; TRAINING
+
+[INTERNSHIPS]
+Keywords: internships; practical training; industry exposure; work experience; summer internship; industrial training; intern; industrial visit; on-the-job training; professional experience
+Aliases: intern; industrial visit; on-the-job training; professional experience; summer training; industry internship
+Question Variations:
+Are internships available?
+How do I get an internship?
+Summer internship opportunities?
+Industrial training?
+Is internship part of the curriculum?
+Overview: Internships provide practical exposure in companies, laboratories, production units, community projects, research settings, and other professional environments.
+Details:
+  - Internships are available across engineering, management, sciences, healthcare, and other disciplines.
+  - Schools and the Career Development Cell help students identify internship opportunities.
+  - Internships may be part of the curriculum for many programmes.
+Important Information:
+  - Eligibility, timing, assessment, stipend, and credit requirements vary by programme and employer.
+  - Contact your school or the Career Development Cell for current internship opportunities.
+FAQs:
+Q: Is internship mandatory?
+A: Internships are part of the curriculum for many programmes. Check your programme structure for specific requirements.
+Q: Does CUTM help find internships?
+A: Yes, the Career Development Cell and your school help identify internship opportunities.
+Related Topics:
+  PLACEMENTS; CAREER_CELL; CURRICULUM
+
+[CAREER_CELL]
+Keywords: career development cell; CDC; career guidance; placement training; aptitude training; mock interviews; career counselling; career services; placement cell; career development; job assistance
+Aliases: career services; placement cell; career development; job assistance; CDC CUTM; career guidance cell
+Question Variations:
+What is the Career Development Cell?
+How does CDC help students?
+Career guidance services?
+What training does CDC provide?
+How to contact CDC?
+Overview: The Career Development Cell (CDC) provides a platform for collaboration between students and companies, offering career guidance, training, and placement support.
+Details:
+  - Activities include career guidance, employability and aptitude training, communication skills development, resume support, and mock interviews.
+  - The CDC engages with employers for campus recruitment drives and internship opportunities.
+  - Company-specific training is provided to students before placement drives.
+Important Information:
+  - Contact the CDC at your campus for current training schedules and placement activities.
+  - The CDC supports all programmes and disciplines.
+FAQs:
+Q: How do I contact the Career Development Cell?
+A: Contact the CDC at your campus through the university website or your school office.
+Q: When does CDC training start?
+A: Training activities are conducted throughout the academic year. Contact the CDC for the current schedule.
+Related Topics:
+  PLACEMENTS; INTERNSHIPS; TRAINING
+
+[TRAINING]
+Keywords: training; skill development; aptitude training; communication skills; soft skills; technical training; employability skills; skill training; student training; employability training; professional development
+Aliases: skill training; student training; employability training; professional development; training programmes
+Question Variations:
+What training is provided?
+Skill development programmes?
+Aptitude training?
+Communication skills training?
+Technical training for placements?
+Overview: CUTM provides training programmes to enhance student employability, including aptitude training, communication skills, technical skills, and company-specific preparation.
+Details:
+  - Training covers aptitude, communication skills, soft skills, and technical skills relevant to industry requirements.
+  - Company-specific training is provided before placement drives.
+  - Training is delivered by dedicated placement trainers and the Career Development Cell.
+Important Information:
+  - Training schedules vary by programme and campus.
+  - Contact the Career Development Cell for current training programmes.
+FAQs:
+Q: Is training free for students?
+A: Yes, training provided by the CDC is part of the university's placement support and is available to all students.
+Q: Can I get training in my first year?
+A: Yes, students are encouraged to participate in training from the first year itself for better preparation.
+Related Topics:
+  PLACEMENTS; CAREER_CELL; CURRICULUM
+
+[SPORTS]
+Keywords: sports; sports facilities; cricket; basketball; volleyball; swimming; gymnasium; yoga; indoor games; outdoor games; fitness; sports activities; sports grounds; physical education; games; recreation
+Aliases: sports activities; sports grounds; physical education; games; recreation; fitness activities
+Question Variations:
+What sports facilities are available?
+Is there a gym?
+Swimming pool?
+Cricket ground?
+Basketball court?
+Yoga classes?
+Overview: CUTM supports indoor and outdoor sports, physical fitness, inter-school competitions, and campus sports events. Facilities include cricket fields, basketball courts, volleyball courts, swimming pools, gymnasiums, and yoga spaces.
+Details:
+  - Outdoor sports facilities include cricket fields, basketball courts, volleyball courts, and swimming pools.
+  - Indoor fitness facilities include gymnasiums, open gymnasiums, and yoga spaces.
+  - Inter-school and intra-campus sports competitions are organised regularly.
+  - A Director of Sports oversees sports activities across campuses.
+Important Information:
+  - Facilities and teams vary by campus. Not all sports may be available at every campus.
+  - Contact the campus sports office or Director of Sports for available games, practice schedules, and selection trials.
+FAQs:
+Q: Is there a swimming pool on campus?
+A: Swimming pools are available at selected campuses. Contact your campus for availability.
+Q: Can I use the gym for free?
+A: Gym facilities are available for students. Check with your campus for access rules and timings.
+Related Topics:
+  CAMPUS_FACILITIES; CLUBS; STUDENT_LIFE
+
+[CLUBS]
+Keywords: student clubs; technical clubs; cultural clubs; student activities; extracurricular; student organisations; clubs and societies; student groups; hobby clubs; interest groups
+Aliases: clubs and societies; student groups; hobby clubs; interest groups; extracurricular clubs
+Question Variations:
+What clubs are available?
+How do I join a club?
+Technical clubs?
+Cultural activities?
+Student organisations?
+Overview: Student clubs at CUTM support technical, cultural, creative, entrepreneurial, social, and recreational interests for holistic student development.
+Details:
+  - Clubs cover areas including technology, coding, robotics, music, dance, drama, photography, entrepreneurship, social service, and more.
+  - Club activities include workshops, competitions, events, and community projects.
+  - Club availability varies by campus and academic year.
+Important Information:
+  - Contact student welfare or the Culture, Sports and Responsibility unit to find active clubs, membership processes, and event schedules.
+  - Students are encouraged to start new clubs based on interest.
+FAQs:
+Q: How do I start a new club?
+A: Students are encouraged to start new clubs. Contact student welfare for the process and approvals.
+Q: Are there technical clubs for coding?
+A: Yes, technical clubs including coding and robotics are available at most campuses.
+Related Topics:
+  STUDENT_LIFE; TARANG; NSS; NCC
+
+[NSS]
+Keywords: NSS; National Service Scheme; volunteering; social service; community service; student volunteering; social responsibility; national service scheme; community engagement; volunteer programme
+Aliases: national service scheme; community engagement; volunteer programme; social outreach
+Question Variations:
+What is NSS?
+How do I join NSS?
+Community service opportunities?
+Volunteering at CUTM?
+Overview: The National Service Scheme (NSS) supports student volunteering, social responsibility, community engagement, awareness campaigns, and service activities at CUTM.
+Details:
+  - NSS activities include community service, awareness campaigns, cleanliness drives, tree plantation, health camps, and social outreach programmes.
+  - CUTM reports active NSS participation across its campuses.
+Important Information:
+  - Contact the campus NSS programme officer or student-welfare office for enrolment, activity hours, camps, and certificates.
+  - NSS participation may be recognised through certificates and activity credits.
+FAQs:
+Q: Does NSS participation give extra credits?
+A: NSS participation may be recognised through certificates and activity credits. Check with your school.
+Q: Can I join NSS in any year?
+A: Yes, NSS enrolment is typically open to all students. Contact the NSS programme officer at your campus.
+Related Topics:
+  NCC; CLUBS; STUDENT_LIFE
+
+[NCC]
+Keywords: NCC; National Cadet Corps; cadet; discipline; leadership; physical fitness; civic responsibility; military training; national cadet corps; cadet training; defence training
+Aliases: national cadet corps; cadet training; defence training; NCC CUTM
+Question Variations:
+What is NCC?
+How do I join NCC?
+Cadet training?
+Is NCC available at CUTM?
+Overview: The National Cadet Corps (NCC) promotes discipline, leadership, physical fitness, civic responsibility, and service through organized training and camps at CUTM.
+Details:
+  - NCC training includes parades, drills, camps, community service, and adventure activities.
+  - CUTM reports active NCC support across its campuses.
+Important Information:
+  - Unit availability, eligibility, selection, parade schedules, and certification details should be confirmed with the campus NCC officer.
+  - NCC participation provides benefits in defence services and other government careers.
+FAQs:
+Q: Does NCC help in defence jobs?
+A: Yes, NCC participation provides benefits in defence services and other government career opportunities.
+Q: Is NCC available at all campuses?
+A: NCC availability varies by campus. Contact the campus NCC officer for details.
+Related Topics:
+  NSS; CLUBS; STUDENT_LIFE
+
+[GRIEVANCE]
+Keywords: grievance; complaint; student grievance; grievance redressal; complaint mechanism; student issues; grievance committee; file a complaint; student complaint; grievance handling; redressal
+Aliases: file a complaint; student complaint; grievance handling; redressal; complaint portal
+Question Variations:
+How do I file a complaint?
+Grievance redressal process?
+Student grievance committee?
+Where to report issues?
+How to raise a complaint?
+Overview: Students may raise academic, administrative, service, safety, discrimination, or other grievances through the designated university or campus grievance mechanism.
+Details:
+  - Grievances can be submitted through the university's grievance portal or to the campus grievance committee.
+  - A complaint should include clear facts, relevant dates, supporting records, and the requested resolution.
+  - Urgent safety matters should be reported immediately to campus authorities.
+  - Unresolved complaints may be escalated through the prescribed process.
+Important Information:
+  - Each campus has a designated grievance redressal committee.
+  - Contact student welfare or the campus administration for the current grievance procedure.
+  - Ragging complaints should be reported immediately to the anti-ragging committee.
+FAQs:
+Q: How long does it take to resolve a grievance?
+A: Resolution time depends on the nature of the complaint. Contact the grievance committee for expected timelines.
+Q: Can I submit a grievance anonymously?
+A: Check with the campus grievance committee for anonymous submission options.
+Related Topics:
+  ANTI_RAGGING; COUNSELLING; CONTACT
+
+[ANTI_RAGGING]
+Keywords: anti-ragging; ragging prohibition; ragging complaint; student safety; anti-ragging committee; ragging helpline; ragging rules; no ragging; ragging prevention; student protection
+Aliases: ragging rules; no ragging; ragging prevention; student protection; anti-ragging helpline
+Question Variations:
+Is ragging allowed?
+Anti-ragging rules?
+How to report ragging?
+Ragging helpline number?
+What happens if someone is caught ragging?
+Overview: Ragging is strictly prohibited at CUTM. The university maintains anti-ragging committees across its campuses and complies with applicable law and UGC regulations.
+Details:
+  - Anti-ragging committees are constituted at each campus as per regulatory requirements.
+  - Students who experience or witness ragging should preserve available evidence and report immediately.
+  - Reports can be made to the campus anti-ragging committee, administration, warden, security, or the national anti-ragging helpline.
+Important Information:
+  - Ragging is a punishable offence under law.
+  - Strict disciplinary action, including expulsion, is taken against those found guilty of ragging.
+  - Contact campus authorities immediately if you face or witness any ragging incident.
+FAQs:
+Q: What is the national anti-ragging helpline?
+A: The national anti-ragging helpline number is 1800-180-5522.
+Q: What action is taken against ragging?
+A: Strict disciplinary action including expulsion is taken against those found guilty of ragging.
+Related Topics:
+  GRIEVANCE; HOSTEL_RULES; CONTACT
+
+[COUNSELLING]
+Keywords: counselling; student counselling; mental health; career counselling; mentoring; student support; wellness; psychological support; guidance; student mentor; personal counselling
+Aliases: psychological support; guidance; student mentor; personal counselling; mental health support
+Question Variations:
+Is counselling available?
+Mental health support?
+Career counselling?
+Student mentoring?
+How to get counselling?
+Overview: Student support at CUTM includes mentoring, career counselling, and guidance for academic, professional, and personal development.
+Details:
+  - The university has documented mentor-based support and career guidance activities.
+  - Faculty mentors are assigned to students for academic and personal guidance.
+  - Career counselling is available through the Career Development Cell.
+Important Information:
+  - Students seeking confidential personal or wellbeing support should contact student welfare or campus administration for the currently designated counsellor or referral service.
+  - Counselling services are confidential and free for students.
+FAQs:
+Q: Is counselling confidential?
+A: Yes, counselling services are confidential and free for students.
+Q: How do I get a faculty mentor?
+A: Faculty mentors are assigned to students. Contact your school office if you need mentor details.
+Related Topics:
+  CAREER_CELL; GRIEVANCE; STUDENT_LIFE
+
+[ALUMNI]
+Keywords: alumni; alumni association; graduates; alumni network; alumni events; alumni relations; CUTM alumni; former students; alumni community; alumni connect; alumni association
+Aliases: former students; alumni community; alumni connect; alumni association; CUTM alumni network
+Question Variations:
+Is there an alumni association?
+How do I join the alumni network?
+Alumni events?
+Alumni benefits?
+Overview: The Centurion University Alumni Association, established in 2007, works to maintain lifelong connections with graduates, support current students, and organize events and programmes.
+Details:
+  - The Alumni Association organises networking events, mentorship programmes, and institutional events.
+  - Alumni can engage through association activities, guest lectures, career talks, and student mentoring.
+  - The association helps maintain connections between graduates and the university.
+Important Information:
+  - Alumni are encouraged to register with the Alumni Association for updates and event invitations.
+  - Contact the university website or alumni office for current alumni programmes and registration.
+FAQs:
+Q: How do I register as an alumnus?
+A: Register through the university website or contact the alumni office for registration details.
+Q: Can alumni mentor current students?
+A: Yes, the Alumni Association organises mentorship programmes and guest lectures.
+Related Topics:
+  PLACEMENTS; CAREER_CELL; STUDENT_LIFE
+
+[STUDENT_LIFE]
+Keywords: student life; campus life; extracurricular; cultural events; technical events; student activities; campus events; campus experience; student experience; life at CUTM; student community
+Aliases: campus experience; student experience; life at CUTM; student community; campus culture
+Question Variations:
+What is student life like at CUTM?
+Campus activities?
+Extracurricular opportunities?
+Cultural events?
+Technical events?
+Overview: Student life at CUTM includes technical activities, cultural programmes, sports, clubs, hackathons, workshops, seminars, community engagement, volunteering, entrepreneurship, and campus events.
+Details:
+  - Technical activities include hackathons, coding competitions, robotics, and industry workshops.
+  - Cultural programmes include music, dance, drama, and literary events.
+  - Sports and fitness activities are organised regularly.
+  - Community engagement includes NSS, NCC, and social outreach programmes.
+  - Entrepreneurship activities are supported through incubation centres and business plan competitions.
+Important Information:
+  - Opportunities differ by campus, school, and academic calendar.
+  - Contact student welfare or the Culture, Sports and Responsibility unit for current activities and schedules.
+FAQs:
+Q: Are there hackathons at CUTM?
+A: Yes, hackathons and coding competitions are regularly organised as part of technical activities.
+Q: Can I participate in cultural events?
+A: Yes, cultural programmes including music, dance, drama, and literary events are held regularly.
+Related Topics:
+  CLUBS; TARANG; SPORTS; NSS; NCC
+
+[TARANG]
+Keywords: Tarang; cultural fest; technical fest; student festival; annual fest; cultural event; CUTM fest; Tarang fest; university festival; student celebration
+Aliases: Tarang fest; university festival; student celebration; CUTM annual fest
+Question Variations:
+What is Tarang?
+When is Tarang?
+Annual fest at CUTM?
+Cultural festival?
+Technical festival?
+Overview: Tarang is the annual cultural and technical student festival at CUTM, featuring music, dance, technical competitions, sports, workshops, and cultural programmes.
+Details:
+  - Tarang includes events across cultural, technical, and sports categories.
+  - Students from all campuses participate in the festival.
+  - The festival provides a platform for students to showcase their talents beyond academics.
+Important Information:
+  - Current dates and participation rules should be confirmed through official event announcements.
+  - Contact student welfare or the Culture, Sports and Responsibility unit for Tarang registration and schedules.
+FAQs:
+Q: When is Tarang held?
+A: Tarang dates are announced through official university channels. Contact student welfare for the current schedule.
+Q: Can students from all campuses participate?
+A: Yes, students from all CUTM campuses can participate in Tarang.
+Related Topics:
+  STUDENT_LIFE; CLUBS; SPORTS; EVENTS

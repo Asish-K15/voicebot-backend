@@ -1,3 +1,38 @@
-Centurion University
-GT / GTAM / Tarang
+[ABOUT]
+Centurion University of Technology and Management (CUTM) is a multi-sector private university located in Odisha and Andhra Pradesh. The university focuses on skill-integrated education, innovation, entrepreneurship, and industry-oriented learning. It offers practical-based education and hands-on training for students.
 
+[COURSES]
+Centurion University offers undergraduate, postgraduate, diploma, and doctoral programs. Popular courses include B.Tech, MBA, MCA, BCA, B.Sc Nursing, Agriculture, Polytechnic, Pharmacy, Hotel Management, and Science programs.
+
+[PLACEMENTS]
+The university provides placement opportunities through industry collaborations and training programs. Students receive skill development, internships, aptitude training, mock interviews, and campus recruitment support. Various companies visit the campus for placements every year.
+
+[HOSTEL]
+Separate hostel facilities are available for boys and girls. Hostels provide WiFi, food facilities, security, transport, study areas, and recreational facilities for students.
+
+[ADMISSIONS]
+Admissions are based on entrance exams, merit, counseling, and eligibility criteria depending on the course. Students can apply online through the official university admission portal.
+
+[FEES]
+Fee structures vary depending on the program and campus. Scholarships and financial assistance are available for eligible students based on merit and category.
+
+[CAMPUSES]
+Centurion University has campuses in Bhubaneswar, Paralakhemundi, Rayagada, Balangir, Vizianagaram, and other locations across Odisha and Andhra Pradesh.
+
+[TARANG]
+Tarang is the annual cultural and technical festival of Centurion University. It includes music, dance, technical competitions, sports, workshops, and cultural events.
+
+[FACILITIES]
+The university provides laboratories, libraries, smart classrooms, sports facilities, transportation, cafeterias, innovation centers, and research facilities for students.
+
+[VISION]
+The vision of Centurion University is to provide quality education with skill development, employability, innovation, and social responsibility.
+
+[MISSION]
+The mission of the university is to create globally competent professionals through experiential learning, industry collaboration, and technology-enabled education.
+
+[RESEARCH]
+The university encourages research, innovation, startups, and entrepreneurship activities among students and faculty members.
+
+[STUDENT LIFE]
+Student life at Centurion University includes technical clubs, cultural activities, sports events, hackathons, workshops, seminars, and community engagement programs.

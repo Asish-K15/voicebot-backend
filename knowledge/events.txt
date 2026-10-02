@@ -1,0 +1,316 @@
+[EVENTS]
+Keywords: events; university events; campus events; academic events; cultural events; technical events; student events; CUTM events; activities; programmes; happenings
+Aliases: upcoming events; event calendar; university activities; campus activities; what's happening at CUTM; CUTM programmes; CUTM activities
+Overview: CUTM organises academic, cultural, technical, and sports events throughout the academic year across its campuses. Events include workshops, seminars, conferences, hackathons, cultural festivals, technical competitions, guest lectures, industry talks, sports meets, innovation events, and startup programmes.
+Details:
+  - Academic events include workshops, seminars, conferences, guest lectures, and industry talks by experts and academicians.
+  - Technical events include hackathons, coding competitions, robotics challenges, innovation contests, and technical symposiums.
+  - Cultural events include music, dance, theatre, art, literary competitions, and student-led celebrations.
+  - Sports events include campus competitions, tournaments, and inter-institution participation.
+  - Special university events include orientation for new students, convocation ceremonies, and foundation day celebrations.
+  - Event dates and schedules are published through official university channels.
+Important Information:
+  - Event dates change throughout the academic year. Check official announcements for current schedules.
+  - Use official university news, event-calendar pages, school notices, and student-welfare announcements for the latest information.
+  - An event from a previous academic year should not be assumed to recur on the same date.
+  - For the most accurate and current event information, visit the official CUTM website events section or contact student welfare.
+Related Topics:
+  TARANG; CULTURAL_EVENTS; TECHNICAL_EVENTS; WORKSHOPS; SEMINARS; CONFERENCES; HACKATHONS; GUEST_LECTURES; INDUSTRY_TALKS; ORIENTATION; CONVOCATION; SPORTS_EVENTS; INNOVATION_EVENTS; STARTUP_EVENTS; EVENT_REGISTRATION; EVENT_CALENDAR; FAQ
+
+[NEWS]
+Keywords: news; university news; CUTM news; campus news; announcements; updates; recent news; press release; achievements
+Aliases: latest news; university updates; news and announcements; CUTM updates; what's new; recent developments
+Overview: CUTM publishes news about university achievements, events, collaborations, research, and student accomplishments through its official website and communication channels.
+Details:
+  - News items include MoUs signed with industry and government organisations, research achievements, student placements, hackathons, and campus events.
+  - Recent news includes MoUs with GAIL India and Gopabandhu Academy of Administration, NAAC accreditation achievements, and student success stories.
+  - News is published on the university website and official social media channels.
+  - Students and visitors are encouraged to check the news section regularly for the latest updates.
+Important Information:
+  - For the latest news, visit the official CUTM website news section at cutm.ac.in.
+  - News items are time-sensitive and may not reflect current offerings.
+  - Follow CUTM's official social media channels for real-time updates.
+Related Topics:
+  EVENTS; WORKSHOPS; CONFERENCES; HACKATHONS; ACHIEVEMENTS
+
+[TARANG]
+Keywords: Tarang; cultural fest; technical fest; student festival; annual fest; cultural event; CUTM fest; tarang fest; university festival; celebration; talent showcase
+Aliases: Tarang fest; university festival; student celebration; annual cultural festival; CUTM Tarang; Tarang celebration; Tarang event
+Overview: Tarang is the annual cultural and technical student festival at CUTM, featuring music, dance, technical competitions, sports, workshops, and cultural programmes. It is one of the most anticipated events of the academic year.
+Details:
+  - Tarang includes events across cultural, technical, and sports categories.
+  - Categories typically include music competitions (singing, instrumental), dance competitions (solo, group), drama and theatre, literary events (debate, quiz, creative writing), art exhibitions, technical competitions (coding, robotics, project showcases), and sports events.
+  - Students from all CUTM campuses participate in the festival.
+  - The festival provides a platform for students to showcase their talents beyond academics.
+  - Workshops and guest sessions are often conducted during the festival period.
+Important Information:
+  - Current dates and participation rules should be confirmed through official event announcements.
+  - Contact student welfare or the Culture, Sports and Responsibility unit for Tarang registration and schedules.
+  - Tarang is typically held once per academic year; check the current academic calendar for the scheduled period.
+  - Students interested in performing or competing should watch for announcements regarding auditions and registrations.
+Related Topics:
+  CULTURAL_EVENTS; TECHNICAL_EVENTS; SPORTS_EVENTS; WORKSHOPS; STUDENT_LIFE; CLUBS; EVENT_REGISTRATION
+
+[CULTURAL_EVENTS]
+Keywords: cultural events; music; dance; theatre; art; literary events; cultural competitions; student performances; cultural activities; creative events; talent show; cultural programme
+Aliases: cultural programmes; cultural activities; arts events; creative events; cultural competitions; student performances; cultural showcase
+Overview: Cultural events at CUTM provide opportunities in music, dance, theatre, art, literature, festivals, competitions, and student-led celebrations throughout the academic year.
+Details:
+  - Cultural events include music performances (vocal, instrumental), dance competitions (classical, contemporary, folk), theatre productions, drama, skits, art exhibitions, painting competitions, photography contests, and literary events (debate, elocution, quiz, creative writing, poetry).
+  - Cultural competitions are organised at school level, campus level, and inter-campus level.
+  - Tarang is the annual flagship cultural and technical festival featuring multiple cultural events.
+  - Festivals and special days are celebrated across campuses including Independence Day, Republic Day, and other cultural festivals.
+  - Students are encouraged to form cultural groups and participate in events.
+Important Information:
+  - Dates, auditions, team rules, and campus participation are published through current student-welfare or event notices.
+  - Contact student welfare or the Culture, Sports and Responsibility unit for current cultural event schedules.
+  - Event availability and themes may vary by campus and academic year.
+Related Topics:
+  TARANG; EVENTS; STUDENT_LIFE; CLUBS; EVENT_REGISTRATION
+
+[TECHNICAL_EVENTS]
+Keywords: technical events; technical competitions; coding; robotics; project exhibition; tech fest; technical symposium; innovation challenge; technology events
+Aliases: tech events; technical activities; tech competitions; engineering events; technical symposiums; tech fest
+Overview: CUTM organises technical events including coding competitions, robotics challenges, project exhibitions, technical symposiums, and innovation contests to promote technical skills and creativity among students.
+Details:
+  - Technical events cover areas including coding and programming competitions, robotics and automation challenges, project exhibitions and poster presentations, technical quizzes, hackathons, and design contests.
+  - Events are organised at school level, campus level, and inter-campus level.
+  - Technical symposiums include paper presentations, technical talks, and workshops.
+  - Students from all engineering and technology disciplines participate actively.
+  - Industry-sponsored technical events and challenges are also conducted in partnership with companies.
+Important Information:
+  - Event schedules, themes, and registration details are announced by the respective schools and the event calendar.
+  - Contact your school's event coordinator or student welfare for current technical event schedules.
+  - Some events may have team size limits, eligibility criteria, or prerequisite skills.
+Related Topics:
+  HACKATHONS; CODING_COMPETITIONS; ROBOTICS; WORKSHOPS; TARANG; EVENT_REGISTRATION; INNOVATION_EVENTS
+
+[HACKATHONS]
+Keywords: hackathons; coding competitions; innovation challenges; technical competitions; programming contests; CUTM hackathons; hackathon events; coding hackathons; innovation hackathons; tech challenges; problem solving
+Aliases: hackathon events; coding hackathons; innovation hackathons; tech challenges; hackathon competition; hackathon participation
+Overview: CUTM supports hackathons and innovation challenges that allow students to solve technical, cybersecurity, sustainability, industry, and community problems. These events foster creativity, teamwork, and problem-solving skills.
+Details:
+  - University staff and schools have organised national-level and campus hackathons including KAWACH Cyber Security Hackathon.
+  - Hackathons cover themes including cybersecurity, software development, sustainability, social impact, healthcare, and smart city solutions.
+  - Students work in teams to solve problem statements within a defined timeframe, typically 24 to 48 hours.
+  - Hackathons are open to students from multiple disciplines, not just computing programmes.
+  - Winning teams often receive prizes, certificates, and incubation support for their ideas.
+Important Information:
+  - Team size, problem statements, eligibility, mentoring, judging, prizes, and registration rules differ for each event.
+  - Check official announcements for current hackathon schedules and registration.
+  - Hackathons may be conducted in online, offline, or hybrid modes.
+  - Students are encouraged to form interdisciplinary teams for better problem-solving.
+Related Topics:
+  EVENTS; WORKSHOPS; TECHNICAL_EVENTS; STUDENT_LIFE; INNOVATION_EVENTS; CODING_COMPETITIONS; EVENT_REGISTRATION
+
+[WORKSHOPS]
+Keywords: workshops; skill development; practical training; hands-on training; professional development; CUTM workshops; training workshops; skill workshops; academic workshops; industry workshops; technical workshops
+Aliases: training workshops; skill workshops; academic workshops; industry workshops; hands-on sessions; practical training sessions; skill development programmes
+Overview: CUTM schools organise workshops for practical learning, skill development, research methods, technology, entrepreneurship, professional practice, and community needs. Workshops are conducted by faculty, industry experts, and guest trainers.
+Details:
+  - Workshops cover topics across engineering, management, sciences, healthcare, agriculture, pharmacy, design, law, media, and other disciplines.
+  - Workshops may be school-specific or open across the university.
+  - Workshop formats include hands-on training, expert sessions, practical demonstrations, group activities, and certification programmes.
+  - Industry professionals and academic experts are invited to conduct specialised workshops.
+  - Skill development workshops are integrated with the curriculum under the National Credit Framework.
+  - Recent workshop topics include drone technology, AI and machine learning, cybersecurity, data science, entrepreneurship, communication skills, and research methodology.
+Important Information:
+  - Workshop topics, dates, eligibility, capacity, fees, certificates, and registration links are announced by the organising school or university event channel.
+  - Check official announcements for current workshop schedules.
+  - Some workshops may have registration fees or limited seats; early registration is recommended.
+  - Certificates are typically provided for workshop participation.
+Related Topics:
+  EVENTS; SEMINARS; CONFERENCES; TRAINING; SKILL_DEVELOPMENT; EVENT_REGISTRATION
+
+[SEMINARS]
+Keywords: seminars; academic seminars; guest lectures; expert talks; industry talks; research seminars; seminar series; academic talks; invited talks; speaker sessions
+Aliases: seminar series; academic talks; invited talks; speaker sessions; expert lecture; knowledge session
+Overview: Academic and professional seminars bring students, faculty, researchers, industry experts, and invited speakers together to discuss current knowledge, research findings, and industry practices.
+Details:
+  - Seminars cover academic, technical, professional, and industry-relevant topics.
+  - Seminars may be school-specific or open across the university.
+  - Guest lectures by industry experts, alumni, and academicians from other institutions are organised regularly.
+  - Research seminars showcase ongoing research work by faculty and research scholars.
+  - Seminar durations typically range from one hour to half-day sessions.
+Important Information:
+  - Check the official announcement for venue, mode, schedule, registration, and attendance requirements.
+  - Seminar schedules are published by the organising school or department.
+  - Seminars may be conducted in online, offline, or hybrid modes.
+  - Attendance at seminars may count toward academic requirements in some programmes.
+Related Topics:
+  EVENTS; WORKSHOPS; CONFERENCES; GUEST_LECTURES; INDUSTRY_TALKS; EVENT_REGISTRATION
+
+[GUEST_LECTURES]
+Keywords: guest lectures; guest speaker; invited talk; expert lecture; industry lecture; alumni talk; motivational talk; special lecture
+Aliases: guest talk; invited lecture; external speaker; visiting faculty lecture; expert session
+Overview: Guest lectures at CUTM bring industry leaders, academic experts, alumni, and professionals to share their knowledge and experience with students across all disciplines.
+Details:
+  - Guest lectures cover topics including career guidance, industry trends, emerging technologies, entrepreneurship, research methods, and soft skills.
+  - Speakers include industry professionals, academic researchers, successful alumni, entrepreneurs, and government officials.
+  - Guest lectures are organised by schools, departments, and student clubs throughout the academic year.
+  - Sessions typically include a presentation followed by a Q&A or discussion period.
+Important Information:
+  - Guest lecture schedules are announced by the organising school or department.
+  - Most guest lectures are free and open to all students and faculty.
+  - Check official notices and school announcements for upcoming guest lectures.
+Related Topics:
+  SEMINARS; WORKSHOPS; INDUSTRY_TALKS; ALUMNI; STUDENT_LIFE; EVENT_REGISTRATION
+
+[INDUSTRY_TALKS]
+Keywords: industry talks; industry interaction; corporate talk; industry expert; company presentation; industry session; placement talk; industry collaboration
+Aliases: industry sessions; corporate interactions; company talks; industry engagement; corporate guest session
+Overview: Industry talks at CUTM provide students with insights into corporate expectations, industry trends, career opportunities, and emerging technologies through direct interaction with industry professionals.
+Details:
+  - Industry talks are organised in collaboration with the Career Development Cell and schools.
+  - Topics include industry expectations from graduates, emerging technology trends, career paths, company cultures, and recruitment processes.
+  - Representatives from partner companies and recruiters conduct sessions regularly.
+  - Industry talks often precede placement drives and internship opportunities.
+  - Sessions may include company presentations, technical discussions, and interactive Q&A.
+Important Information:
+  - Industry talk schedules are announced by the Career Development Cell and respective schools.
+  - Attendance is particularly beneficial for students preparing for placements and internships.
+  - Check CDC notices and school announcements for upcoming industry talks.
+Related Topics:
+  GUEST_LECTURES; SEMINARS; PLACEMENTS; CAREER_CELL; STUDENT_LIFE; EVENT_REGISTRATION
+
+[ORIENTATION]
+Keywords: orientation; orientation programme; freshers; induction; welcome programme; new student orientation; freshman orientation; induction programme; student induction
+Aliases: freshers orientation; new student welcome; induction programme; student induction; campus orientation; academic orientation
+Overview: CUTM conducts orientation programmes for new students at the beginning of each academic session to familiarise them with the university, campus, facilities, academic regulations, and student life.
+Details:
+  - Orientation programmes are held at the start of each academic session for newly admitted students.
+  - The programme typically includes welcome address by the Vice Chancellor and leadership team, introduction to schools and departments, campus tour, academic regulations briefing, library and laboratory introduction, student support services overview, hostel and transport information, and interaction with faculty and senior students.
+  - Orientation helps students understand the university's vision, mission, values, and code of conduct.
+  - Separate orientation sessions may be conducted for UG, PG, Diploma, and PhD students.
+Important Information:
+  - Orientation dates are communicated through the admission letter and university website.
+  - Attendance at orientation is mandatory for all new students.
+  - Parents and guardians may also be invited for the inaugural session.
+  - Check the official academic calendar or admission portal for the current orientation schedule.
+Related Topics:
+  ADMISSION_PROCESS; STUDENT_LIFE; CAMPUSES; CAMPUS_FACILITIES; ACADEMIC_CALENDAR; IMPORTANT_DATES
+
+[CONVOCATION]
+Keywords: convocation; graduation ceremony; degree awarding; graduation; convocation ceremony; degree distribution; graduation day
+Aliases: graduation ceremony; convocation day; degree ceremony; graduation event; convocation event
+Overview: CUTM holds annual convocation ceremonies to award degrees to graduating students. The convocation is a formal ceremony celebrating academic achievement.
+Details:
+  - The convocation ceremony is typically held once per academic year.
+  - Degrees are awarded to students who have successfully completed their programme requirements.
+  - The ceremony includes addresses by the Chancellor, Vice Chancellor, and a chief guest.
+  - Gold medals and academic excellence awards are presented during convocation.
+  - Graduating students must register for convocation and confirm their participation.
+Important Information:
+  - Convocation dates are announced through official university channels.
+  - Eligible students are notified individually about convocation registration and participation.
+  - Details about academic dress (gown, cap), rehearsal, and ceremony schedule are communicated in advance.
+  - Check the official CUTM website and student portal for current convocation information.
+Related Topics:
+  ACADEMIC_PROGRAMS; DEGREE_REQUIREMENTS; STUDENT_LIFE; EVENTS; ACADEMIC_CALENDAR
+
+[SPORTS_EVENTS]
+Keywords: sports events; sports competitions; tournaments; inter-school sports; athletics; sports meets; CUTM sports; sports tournament; sports meet; inter-college sports; intra-campus sports
+Aliases: sports meets; athletic events; sports tournaments; inter-college sports; sports competition; sports fixtures; sports calendar
+Overview: Sports events at CUTM include campus competitions, selection trials, tournaments, fitness activities, and inter-school or inter-institution participation across multiple sports disciplines.
+Details:
+  - Sports events cover cricket, basketball, volleyball, swimming, athletics, football, badminton, table tennis, chess, and other sports.
+  - Inter-school and intra-campus sports competitions are organised regularly throughout the academic year.
+  - Annual sports meets are conducted with multiple events and categories.
+  - Students are selected through trials to represent the university in inter-university tournaments.
+  - A Director of Sports oversees sports activities and events across campuses.
+  - Sports events are also part of Tarang, the annual cultural and technical festival.
+Important Information:
+  - Available sports and schedules differ by campus.
+  - Contact the Culture, Sports and Responsibility unit or student-welfare office for registration, practice, eligibility, and venue details.
+  - Students interested in representing the university should watch for trial announcements.
+Related Topics:
+  SPORTS; TARANG; EVENTS; STUDENT_LIFE; CAMPUS_FACILITIES; EVENT_REGISTRATION
+
+[INNOVATION_EVENTS]
+Keywords: innovation events; innovation; startup; incubation; entrepreneurship; business plan competition; idea contest; innovation challenge; startup competition; hackathon; innovation lab
+Aliases: innovation programmes; innovation challenges; startup events; entrepreneurship events; business plan contests; idea pitching; innovation competitions
+Overview: CUTM promotes innovation and entrepreneurship through events including business plan competitions, idea pitching sessions, innovation challenges, startup showcases, and incubation awareness programmes.
+Details:
+  - Innovation and entrepreneurship events are supported by the university's incubation centre and entrepreneurship cell.
+  - Events include business plan competitions, idea pitching contests, startup showcases, innovation challenges in partnership with industry, and entrepreneurship awareness workshops.
+  - Selected ideas may receive incubation support, mentoring, and funding guidance.
+  - Events are open to students from all disciplines and campuses.
+  - Industry experts and successful entrepreneurs are invited as mentors and judges.
+Important Information:
+  - Event schedules and registration details are announced by the incubation centre and entrepreneurship cell.
+  - Check official announcements for current innovation event schedules.
+  - Students with innovative ideas are encouraged to participate regardless of their discipline.
+  - Winning ideas may receive incubation space, mentorship, and seed funding support.
+Related Topics:
+  HACKATHONS; WORKSHOPS; TECHNICAL_EVENTS; STUDENT_LIFE; EVENT_REGISTRATION; ENTREPRENEURSHIP
+
+[STARTUP_EVENTS]
+Keywords: startup events; startup; entrepreneurship; business launch; startup support; incubation; startup competition; startup showcase; entrepreneurial events; startup ecosystem
+Aliases: startup programmes; entrepreneurship events; startup competitions; startup showcases; incubation events; entrepreneurial activities
+Overview: CUTM supports startup culture through events that encourage entrepreneurial thinking, business development, and startup creation among students and faculty.
+Details:
+  - Startup events include startup showcases where student entrepreneurs present their ventures, pitch competitions for early-stage ideas, networking events with entrepreneurs and investors, workshops on business model development, and mentorship sessions with industry experts.
+  - The university's incubation centre provides support for student startups including workspace, mentoring, and industry connections.
+  - Successful student startups are recognised and featured in university communications.
+  - Events are organised in collaboration with the entrepreneurship cell, incubation centre, and partner organisations.
+Important Information:
+  - Startup event schedules are announced by the incubation centre and entrepreneurship cell.
+  - Students interested in entrepreneurship should connect with the incubation centre for upcoming events and opportunities.
+  - Both early-stage ideas and existing ventures are welcome at most events.
+Related Topics:
+  INNOVATION_EVENTS; WORKSHOPS; TECHNICAL_EVENTS; STUDENT_LIFE; ALUMNI; EVENT_REGISTRATION
+
+[EVENT_REGISTRATION]
+Keywords: event registration; how to register; registration process; sign up; participation; event participation; registration link; registration form; register for event
+Aliases: how to participate; sign up for events; event sign up; participation registration; register online; event enrolment
+Overview: Event registration at CUTM is managed through official announcements, school notices, student welfare communications, and online registration platforms. The process varies by event type and organising body.
+Details:
+  - Most events require prior registration through online forms, school notice boards, or student welfare offices.
+  - Registration details including deadlines, fees (if any), eligibility criteria, and required information are specified in event announcements.
+  - For technical events and hackathons, registration is typically online through event-specific portals or forms.
+  - For cultural and sports events, registration may be through school or student welfare coordinators.
+  - Some events have limited seats and early registration is recommended.
+Important Information:
+  - Always read the full event announcement before registering.
+  - Keep a copy of your registration confirmation for reference.
+  - For registration-related queries, contact the event organiser or student welfare office.
+  - Late registrations are generally not accepted unless specified in the announcement.
+Related Topics:
+  EVENTS; WORKSHOPS; HACKATHONS; CULTURAL_EVENTS; SPORTS_EVENTS; TARANG; STUDENT_LIFE
+
+[EVENT_CALENDAR]
+Keywords: event calendar; academic calendar; event schedule; university calendar; important dates; upcoming events; events schedule; calendar of events; programme calendar; activities calendar
+Aliases: events schedule; calendar of events; programme calendar; activities calendar; what's on; event timeline; academic schedule
+Overview: Event dates change throughout the academic year. Students should use official university news, event-calendar pages, school notices, and verified campus communication channels for the latest schedule.
+Details:
+  - The university publishes event schedules through its website, school notices, and student-welfare announcements.
+  - Events include academic, cultural, technical, sports, orientation, convocation, and special events.
+  - Each school may publish its own event calendar for school-specific activities.
+  - The academic calendar provides key dates for the academic year including semester start and end dates, examination periods, and holidays.
+  - Event announcements are typically made at least one to two weeks before the event date.
+Important Information:
+  - An event from a previous academic year should not be assumed to recur on the same date.
+  - Always check the current academic year's calendar for accurate dates.
+  - Contact student welfare or the relevant school for event-specific queries.
+  - Bookmark the official CUTM website and follow official social media for real-time event updates.
+Related Topics:
+  EVENTS; ACADEMIC_CALENDAR; STUDENT_LIFE; CULTURAL_EVENTS; TECHNICAL_EVENTS; SPORTS_EVENTS; TARANG; IMPORTANT_DATES
+
+[FAQ]
+Keywords: event FAQ; events questions; how to participate; event schedule; event registration; event eligibility; event participation; common questions
+Aliases: frequently asked questions about events; event help; event queries; participation help
+Overview: Common questions about events at CUTM include how to find upcoming events, how to register, whether there are registration fees, who can participate, and where event information is published.
+Details:
+  - How do I find upcoming events? Check the official CUTM website news and events section, school notice boards, student welfare announcements, and official social media channels.
+  - How do I register for an event? Follow the registration instructions in the event announcement. Most events provide online registration links or contact details for registration.
+  - Is there a registration fee? Some events may have nominal registration fees, while others are free. The event announcement will specify any applicable fees.
+  - Who can participate? Most events are open to all CUTM students. Some events may be school-specific or have eligibility criteria such as year of study or prerequisite skills.
+  - Can students from any campus participate? Yes, most university-level events are open to students from all CUTM campuses. Campus-specific events may be restricted to that campus.
+  - Are certificates provided? Many events provide participation or achievement certificates. Check the event announcement for certificate details.
+  - Where can I find the event schedule? Event schedules are published through official university channels. Check the website, school notices, and student welfare communications.
+Important Information:
+  - Answers vary by event and academic session.
+  - Always refer to the specific event announcement for accurate and current information.
+  - Contact student welfare or the event organiser for queries not answered in the announcement.
+Related Topics:
+  EVENTS; EVENT_REGISTRATION; EVENT_CALENDAR; STUDENT_LIFE; CONTACT

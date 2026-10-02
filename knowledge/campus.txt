@@ -1,0 +1,222 @@
+[CAMPUSES]
+Keywords: campuses; Paralakhemundi; Bhubaneswar; Balangir; Rayagada; Balasore; Chatrapur; Odisha; Andhra Pradesh; CUTM locations; main campus; main campus location; university location
+Aliases: campus locations; university campuses; CUTM campuses; where is CUTM located; campus addresses
+Overview: Centurion University operates campuses across Odisha and Andhra Pradesh. Each campus has different programme offerings and facilities.
+Details:
+  - Paralakhemundi Campus (Main Campus): Village Alluri Nagar, P.O. R Sitapur, Via Uppalada, Paralakhemundi, Gajapati, Odisha 761211. Phone: +91 82600 77222.
+  - Bhubaneswar Campus: Ramchandrapur, P.O. Jatni, Bhubaneswar, Khurda, Odisha 752050. Phone: +91 82600 77222.
+  - Balangir Campus: Behind BSNL office, IDCO land, Rajib Nagar, Balangir 767001. Phone: 06652-235641/235642/235644.
+  - Rayagada Campus: IDCO Industrial Area, Pitamahal, Rayagada, Odisha. Phone: 7008211184, 9861875762.
+  - Balasore Campus: At Paikasta, Po Gopalpur, Block Bahanaga 756044.
+  - Chatrapur Campus: Industrial Estate, Kaliabali Chhaka, Chatrapur, Ganjam 761045.
+  - Vizianagaram Campus: Located in Andhra Pradesh, offering selected programmes.
+Important Information:
+  - Programme availability and facilities differ by campus. Check the specific campus page before applying.
+  - Contact the specific campus directly for location-specific queries.
+  - The main administrative office is at Bhubaneswar: HIG-4, Floor 1 and 2, Jaydev Vihar, Bhubaneswar, Odisha.
+Related Topics:
+  CAMPUS_FACILITIES; HOSTEL; TRANSPORT; LIBRARY; MEDICAL
+
+[CAMPUS_FACILITIES]
+Keywords: campus facilities; academic facilities; lecture theatres; library; WiFi; auditorium; boardroom; conference rooms; smart classrooms
+Aliases: facilities on campus; campus infrastructure; what facilities are available; amenities
+Overview: CUTM campuses include academic and residential infrastructure such as libraries, lecture theatres, conference rooms, hostels, dining facilities, laboratories, sports facilities, and student support services.
+Details:
+  - Academic facilities include libraries, lecture theatres, boardrooms, seminar halls, auditoriums, and WiFi-enabled campuses.
+  - Residential facilities include hostels, guest houses, and staff quarters with supervised accommodation.
+  - Dining facilities include central mess, guest house dining rooms, restaurants, and market complexes with healthy food options.
+  - Sports and fitness facilities include gymnasiums, open gymnasiums, cricket fields, volleyball courts, basketball courts, swimming pools, and yoga spaces.
+  - Healthcare facilities include Ayurveda Wellness Centre, Community Diagnostics Center for primary and secondary medical care, ophthalmological consultations, and subsidised optical shop.
+  - Transport services include a dedicated fleet of buses and mini vehicles for staff and students.
+  - Campuses are located away from city centres for a tranquil environment with green campuses.
+Important Information:
+  - Precise facilities available depend on the specific campus, school, and programme.
+  - Some facilities may not be available at all campuses.
+  - Contact the specific campus for current facility availability and access rules.
+Related Topics:
+  CAMPUSES; LIBRARY; HOSTEL; SPORTS; TRANSPORT; MEDICAL; WIFI
+
+[LIBRARY]
+Keywords: library; books; journals; reference materials; digital resources; reading spaces; academic resources; CUTM library
+Aliases: central library; campus library; library facilities; book lending
+Overview: CUTM campus libraries support study, teaching, and research with books, journals, reference materials, digital resources, reading spaces, and academic-integrity tools.
+Details:
+  - Libraries are available at all major campuses with collections of books, journals, and reference materials.
+  - Digital resources and academic databases are accessible for student research.
+  - Reading spaces and study areas are provided within the library facilities.
+  - Library services are available to students, faculty, and staff.
+  - Selected resources are available through the university's public-access library initiatives.
+Important Information:
+  - Borrowing rules, membership access, and resource availability vary by campus.
+  - Contact your campus library for specific membership procedures and borrowing policies.
+  - Library hours may differ during examination periods, semester breaks, and holidays.
+Related Topics:
+  LIBRARY_TIMINGS; CAMPUS_FACILITIES; CAMPUSES; WIFI
+
+[LIBRARY_TIMINGS]
+Keywords: library timings; library hours; opening hours; library schedule; weekend hours; holiday schedule
+Aliases: when is the library open; library opening time; library closing time
+Overview: Library opening hours vary by campus, weekday, examination period, semester break, and public holiday.
+Details:
+  - Regular library hours are maintained during the academic semester.
+  - Extended hours may be available during examination periods.
+  - Reduced hours or closure may apply during semester breaks and public holidays.
+Important Information:
+  - Check the notice displayed at your campus library for current hours.
+  - Contact the campus librarian for the most accurate opening, closing, weekend, and holiday timings.
+  - Hours may differ between campuses.
+Related Topics:
+  LIBRARY; CAMPUS_FACILITIES; ACADEMIC_CALENDAR
+
+[HOSTEL]
+Keywords: hostel; accommodation; residential facilities; boys hostel; girls hostel; on-campus housing; student residence
+Aliases: hostel accommodation; student housing; dormitory; residential hostel; boarding
+Overview: CUTM provides supervised residential accommodation with separate hostels for male and female students. Facilities include 24-hour power supply, medical support, WiFi, security, and dining.
+Details:
+  - Separate living accommodation is provided for female students with dedicated girls hostels.
+  - Hostel facilities include 24-hour power supply, medical facilities, full-time security, WiFi connectivity, study areas, dining or mess access, and on-campus ATM.
+  - Paralakhemundi Campus hostels include: Mahanadi Boys Hostel (capacity 243), Nagavali Boys Hostel (capacity 240, 48 rooms), Vansadhara Boys Hostel (capacity 138, 38 rooms), Mahendra Tanaya Girls Hostel (capacity 276, 38 rooms, 300 beds), Indravati Girls Hostel (capacity 240), Brahamani Girls Hostel (capacity 96), MDC AC Hostel (capacity 137), Baitarani Boys Hostel, and other hostels.
+  - Other campuses also provide hostel facilities with varying capacities.
+  - Room types and availability depend on the campus and admission session.
+Important Information:
+  - Hostel allocation is subject to availability and admission confirmation.
+  - Contact the campus hostel office or admissions for current fees and availability.
+  - Hostel rules are enforced by wardens and campus administration.
+Related Topics:
+  HOSTEL_RULES; CAMPUS_FACILITIES; CAMPUSES; MEDICAL; WIFI
+
+[HOSTEL_RULES]
+Keywords: hostel rules; hostel regulations; warden instructions; hostel discipline; anti-ragging; visitor policy; curfew
+Aliases: hostel guidelines; accommodation rules; hostel code of conduct
+Overview: Hostel residents must follow the rules issued by the campus hostel administration and warden. Rules cover room allocation, attendance, entry and exit timings, visitor access, and conduct.
+Details:
+  - Room allocation is managed by the hostel administration based on availability.
+  - Attendance tracking and entry/exit timings are enforced for resident safety.
+  - Visitor access is regulated and requires prior permission.
+  - Identity cards must be carried at all times within the hostel premises.
+  - Quiet hours and cleanliness standards are maintained.
+  - Prohibited items are strictly not allowed inside hostels.
+  - Anti-ragging rules are enforced as per university and government regulations.
+  - Mess discipline and meal timings are managed by the hostel administration.
+  - Overnight leave requires prior permission from the warden.
+Important Information:
+  - The current hostel handbook and warden's instructions take precedence over general guidance.
+  - Violation of rules may result in disciplinary action.
+  - Ragging is strictly prohibited and punishable under law.
+Related Topics:
+  HOSTEL; CAMPUS_FACILITIES; CAMPUSES
+
+[SPORTS]
+Keywords: sports; sports facilities; cricket; basketball; volleyball; swimming; gymnasium; yoga; indoor games; outdoor games; fitness
+Aliases: sports activities; sports grounds; physical education; games; recreation
+Overview: CUTM supports indoor and outdoor sports, physical fitness, inter-school competitions, and campus sports events. Facilities include cricket fields, basketball courts, volleyball courts, swimming pools, gymnasiums, and yoga spaces.
+Details:
+  - Outdoor sports facilities include cricket fields, basketball courts, volleyball courts, and swimming pools.
+  - Indoor fitness facilities include gymnasiums, open gymnasiums, and yoga spaces.
+  - Inter-school and intra-campus sports competitions are organised regularly.
+  - Sports facilities are open to students and staff members.
+  - Fitness and sports are given importance as part of student development.
+Important Information:
+  - Facilities and teams vary by campus. Not all sports may be available at every campus.
+  - Contact the campus Culture, Sports and Responsibility unit or student-welfare office for available games, practice schedules, selection trials, and equipment access.
+  - Some facilities may require prior booking or registration.
+Related Topics:
+  CAMPUS_FACILITIES; CAMPUSES; CAFETERIA
+
+[LABORATORIES]
+Keywords: laboratories; labs; production labs; practical labs; engineering labs; computer labs; science labs; research labs
+Aliases: lab facilities; laboratory equipment; practical training labs; skill labs
+Overview: CUTM uses practical laboratories and industry-linked production labs for experiential learning across engineering, computing, agriculture, health sciences, pharmacy, and other disciplines.
+Details:
+  - Engineering labs support mechanical, civil, electrical, electronics, computer science, and aerospace disciplines.
+  - Computer labs and programming labs are available for computing and IT programmes.
+  - Science labs support physics, chemistry, biology, biotechnology, and environmental science.
+  - Health sciences labs support nursing, pharmacy, medical laboratory technology, and allied health programmes.
+  - Production labs include precision machining, transformer manufacturing, electric vehicle manufacturing, apparel manufacturing, and wood engineering.
+  - Industry-sponsored labs include Automotive Testing Lab (BOSCH) and Advanced Material Testing Lab.
+Important Information:
+  - Laboratory access is governed by class schedules, safety rules, faculty supervision, and programme requirements.
+  - Lab availability differs by campus and school.
+  - Some production labs are used for both academic training and commercial production.
+Related Topics:
+  CAMPUS_FACILITIES; ACADEMIC_PROGRAMS; RESEARCH; CAMPUSES
+
+[CAFETERIA]
+Keywords: cafeteria; mess; dining; food services; restaurant; canteen; meals; food court
+Aliases: canteen; food court; dining hall; meal plans; campus food
+Overview: Campus food services include central mess facilities, dining halls, restaurants, and market complexes providing healthy food options for students, staff, residents, and visitors.
+Details:
+  - Central mess facilities serve hostel residents with regular meals.
+  - Dedicated restaurants and market complexes provide customised healthy food options.
+  - Guest house dining rooms cater to visitors and guests.
+  - Menus and meal plans vary by campus and hostel.
+  - Payment arrangements vary by campus and dining facility.
+Important Information:
+  - Service hours and menu options vary by campus and hostel.
+  - Consult the campus food-service notice or hostel office for current details.
+  - Report dietary concerns or hygiene issues to the responsible campus office.
+Related Topics:
+  HOSTEL; CAMPUS_FACILITIES; CAMPUSES
+
+[MEDICAL]
+Keywords: medical facilities; healthcare; wellness centre; clinic; first aid; Ayurveda; diagnostics; emergency; hospital
+Aliases: health centre; campus clinic; doctor; medical assistance; health services
+Overview: CUTM provides medical assistance and healthcare facilities on campus, including primary and secondary medical care, an Ayurveda Wellness Centre, and diagnostic services.
+Details:
+  - Ayurveda Wellness Centre offers naturopathy and therapeutic massage treatments.
+  - Community Diagnostics Center provides primary and secondary medical care.
+  - Ophthalmological consultations and a subsidised optical shop are available (sponsored by Essilor).
+  - Residential facilities include access to medical assistance and first-aid support.
+  - Health, hygiene, safety, and first-aid awareness are promoted across campuses.
+Important Information:
+  - Exact clinic, first-aid, ambulance, hospital-referral, and emergency arrangements vary by campus.
+  - In an urgent situation, contact campus security, the hostel warden, or the designated medical contact immediately.
+  - Not all medical facilities may be available at every campus.
+Related Topics:
+  CAMPUS_FACILITIES; HOSTEL; CAMPUSES
+
+[TRANSPORT]
+Keywords: transport; bus; shuttle; campus transport; student transport; bus routes; conveyance
+Aliases: transportation; bus service; campus bus; student conveyance; pick up drop
+Overview: CUTM provides transportation facilities on selected routes through a dedicated fleet of buses and mini vehicles for staff and students.
+Details:
+  - A dedicated fleet of buses and mini vehicles serves the transport needs of staff and students.
+  - Campuses are located away from city centres, making transport services important for daily commute.
+  - Bus routes cover key areas around each campus.
+Important Information:
+  - Routes, stops, seats, pickup times, eligibility, and charges may change each academic session.
+  - Confirm current bus availability and registration with the campus transport office before relying on a route.
+  - Transport facilities may not be available at all campuses.
+Related Topics:
+  CAMPUS_FACILITIES; CAMPUSES
+
+[WIFI]
+Keywords: WiFi; internet; wireless; network; connectivity; high-speed internet; campus network
+Aliases: internet access; wireless network; campus WiFi; online access
+Overview: CUTM residential campuses provide WiFi connectivity with high-speed internet access in supported areas for students and staff.
+Details:
+  - WiFi-enabled campus with high-speed connectivity is available in supported areas.
+  - Internet access supports academic research, online learning, and communication.
+Important Information:
+  - Access may require a university account or device registration.
+  - Usage is subject to acceptable-use, cybersecurity, and bandwidth policies.
+  - Coverage and service levels may vary by building and campus.
+  - Report connectivity problems to the campus IT support team.
+Related Topics:
+  CAMPUS_FACILITIES; LIBRARY; CAMPUSES
+
+[GENERAL_AMENITIES]
+Keywords: campus amenities; ATM; banking; post office; convenience store; stationery; photocopy; guest house
+Aliases: student amenities; campus services; daily needs; facilities for students
+Overview: CUTM campuses provide additional amenities to support the daily needs of students, staff, and visitors.
+Details:
+  - On-campus ATMs are available for banking transactions.
+  - Guest houses are available for visitors and parents.
+  - Stationery and photocopy services are available on campus.
+  - Campuses maintain green environments with gardens and open spaces.
+  - Water and sanitation facilities include wastewater recycling and rainwater harvesting.
+Important Information:
+  - Amenity availability varies by campus.
+  - Contact the campus administration office for specific services.
+Related Topics:
+  CAMPUS_FACILITIES; CAMPUSES; HOSTEL; CAFETERIA

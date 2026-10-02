@@ -1,0 +1,203 @@
+[HOSTEL_OVERVIEW]
+Keywords: hostel; accommodation; lodging; dormitory; residential; boarding; PG; paying guest; living; stay; rooms; housing
+Aliases: hostel accommodation; student housing; dormitory; residential facility; boarding facility; PG accommodation; living quarters
+Question Variations:
+Does CUTM have hostel?
+What accommodation is available?
+Is there hostel facility?
+Where can I stay?
+Hostel rooms?
+Hostel facilities?
+Overview: CUTM provides separate hostel accommodation for boys and girls across all its campuses. Hostels are equipped with essential amenities including WiFi, 24/7 security, power backup, water supply, and recreational facilities. Each campus has multiple hostel blocks with varying room configurations.
+Details:
+  - Separate hostels for boys and girls at every campus with dedicated wardens and security.
+  - Room types: Shared rooms (2-4 sharing), single rooms (subject to availability), AC rooms, Non-AC rooms.
+  - Each room is furnished with bed, study table, chair, cupboard, and fan/AC as applicable.
+  - Common facilities: WiFi internet, common rooms with TV, indoor games, reading rooms, water coolers, purifiers, and RO systems.
+  - 24/7 security with CCTV surveillance, security guards, and biometric access in select hostels.
+  - Power backup for all hostel buildings.
+  - Housekeeping and maintenance services provided regularly.
+  - Laundry facilities available (self-service or paid service depending on campus).
+  - Visitor rooms and guest rooms available for parents/guardians.
+  - Medical support: First-aid available; tie-up with nearby hospitals for emergencies.
+  - ATM facilities available on or near campus.
+Important Information:
+  - Hostel allocation is subject to availability — early application is recommended.
+  - Hostel fees are separate from academic tuition fees.
+  - A refundable caution deposit may be required at the time of check-in.
+  - Hostel rules and regulations must be followed; violations may result in disciplinary action.
+  - Students must maintain cleanliness and follow the hostel code of conduct.
+  - Ragging is strictly prohibited as per university anti-ragging policy.
+  - Hostel timings and curfew rules apply; late entry requires prior permission.
+  - Visitors are allowed only in designated areas with prior approval from the warden.
+  - Overnight guests require prior permission from the warden and hostel office.
+  - Room changes are permitted only through the hostel office after the allocation period.
+FAQs:
+Q: Does CUTM have hostel facilities?
+A: Yes, CUTM provides separate hostel accommodation for boys and girls at all campuses with modern amenities and 24/7 security.
+Q: What types of hostel rooms are available?
+A: Rooms include shared (2-4 sharing), single (subject to availability), AC, and Non-AC options. Each room is furnished with essential furniture.
+Q: Is WiFi available in hostels?
+A: Yes, WiFi internet is available in all hostel buildings across campuses.
+Q: Is there separate hostel for boys and girls?
+A: Yes, CUTM has dedicated boys hostels and girls hostels at each campus with separate wardens, security, and facilities.
+Q: What facilities are available in the hostel?
+A: Facilities include WiFi, 24/7 security, power backup, water purifiers, common rooms, TV, indoor games, reading rooms, housekeeping, and medical support.
+Q: What are the hostel rules and regulations?
+A: Rules include maintaining discipline, following curfew timings, no ragging, visitor restrictions, no overnight guests without permission, and maintaining cleanliness.
+Q: How much does AC and Non-AC hostel cost?
+A: Hostel fees vary by campus, room type (AC/Non-AC), and occupancy. Contact the campus hostel office for the current fee sheet.
+Q: What is the hostel fee at Paralakhemundi campus?
+A: Hostel fees at Paralakhemundi vary by room type. Contact the Paralakhemundi hostel office for exact fee details.
+Q: What mess facilities are available in hostels?
+A: Each campus has mess facilities offering vegetarian and non-vegetarian meal options. Mess fees are separate from hostel fees. Special diet options may be available on request.
+Q: What documents should I bring for hostel check-in?
+A: Required documents typically include admission letter, fee receipt, ID proof (Aadhaar, college ID), passport-size photographs, and medical certificate. Check with the hostel office for the complete list.
+Q: Can I get a single room in the hostel?
+A: Single rooms may be available depending on campus and availability. Contact the hostel office for room type options and waiting list.
+Q: What is the hostel allocation process?
+A: Hostel allocation is done on a first-come-first-served basis. Students must apply through the hostel office after admission. Allocation is subject to availability.
+Q: What are the hostel timings and curfew rules?
+A: Hostel timings vary by campus. Generally, students are expected to be in the hostel by 8:00 PM to 9:00 PM. Late entry requires prior permission from the warden.
+Q: Is medical support available in hostels?
+A: Yes, first-aid facilities are available in hostels. The university has tie-ups with nearby hospitals for medical emergencies.
+Q: Is there security in the hostel?
+A: Yes, 24/7 security with CCTV surveillance, security guards, and biometric access in select hostels.
+Q: Are there study areas in the hostel?
+A: Yes, reading rooms and study areas are available in hostel buildings.
+Q: Is laundry service available in hostels?
+A: Laundry facilities are available — either self-service or paid service depending on the campus.
+Q: Is there an ATM on campus near the hostel?
+A: ATM facilities are available on or near the campus for student convenience.
+Q: What is the guest room policy in hostels?
+A: Visitor rooms and guest rooms are available for parents and guardians with prior approval from the warden. Overnight stays require advance permission.
+Q: What is the mess fee and menu like in hostels?
+A: Mess fees are separate from hostel fees. The menu typically includes vegetarian and non-vegetarian options. Contact the campus mess office for current fee and menu details.
+Q: What is the hostel fee at Bhubaneswar campus?
+A: Hostel fees at Bhubaneswar vary by room type. Contact the Bhubaneswar campus hostel office for the current fee schedule.
+Q: What is the hostel fee at Vizianagaram campus?
+A: Hostel fees at Vizianagaram vary by room type. Contact the Vizianagaram campus hostel office for the current fee schedule.
+Q: Compare hostel facilities across CUTM campuses
+A: All CUTM campuses provide separate boys and girls hostels with WiFi, security, power backup, mess facilities, and recreational areas. Specific facilities and fees vary by campus. Contact the respective campus hostel office for detailed comparison.
+Q: What is the complete process for hostel application and allocation?
+A: After admission, students apply at the campus hostel office. Allocation is based on availability and room type preference. Early application is recommended. Required documents include admission letter, ID proof, and photographs.
+Q: What are the rules regarding visitors and overnight guests in hostels?
+A: Visitors are allowed only in designated areas with prior approval. Overnight guests require advance permission from the warden. Guest rooms are available for parents.
+Q: I'm a girl joining BTech at Bhubaneswar. Tell me about girls hostel facilities
+A: CUTM Bhubaneswar has dedicated girls hostels with 24/7 security, female wardens, WiFi, common rooms, mess facilities, and all essential amenities. Contact the Bhubaneswar campus for specific room options and fees.
+Q: What is the complete cost of living at CUTM including hostel and mess?
+A: The total cost includes hostel fees (varies by room type), mess fees (varies by meal plan), and personal expenses. Contact the campus hostel office for a detailed cost breakdown.
+Q: Are there power backup facilities in hostels?
+A: Yes, all hostel buildings have power backup for essential lighting and fans.
+Q: What is the hostel check-in and check-out process?
+A: Check-in is done at the start of the academic session after fee payment and document verification. Check-out is at the end of the academic year or upon course completion. Mid-semester check-out requires hostel office approval.
+Q: Can I change my hostel room after allocation?
+A: Room changes are permitted only through the hostel office after the initial allocation period, subject to availability.
+Q: What are the penalties for hostel rule violations?
+A: Penalties may include warnings, fines, disciplinary action, or hostel suspension depending on the severity of the violation.
+Q: Is there a hostel committee or warden system?
+A: Yes, each hostel has a warden and supporting staff. A hostel committee with student representatives may also be in place for student welfare.
+Q: What recreational facilities are available in hostels?
+A: Common rooms with TV, indoor games (carrom, chess, table tennis), reading rooms, and outdoor sports facilities are available.
+Q: Are there common rooms and TV rooms in hostels?
+A: Yes, common rooms with TV and indoor games are available in hostel buildings.
+Q: What is the guest house policy for parents visiting?
+A: Guest rooms are available for parents and guardians with prior booking through the hostel office. Nominal charges may apply.
+Q: Compare AC and Non-AC hostel facilities
+A: AC rooms have air conditioning with higher fees. Non-AC rooms have ceiling fans and are more affordable. Both types are furnished with essential furniture and have access to common facilities.
+Q: What is the refund policy for hostel fees if I leave mid-semester?
+A: Hostel fee refunds follow university policy. Contact the finance office for the current refund policy for mid-semester withdrawals.
+Q: Can external students or visitors use hostel facilities?
+A: Hostel facilities are primarily for registered CUTM students. External visitors may use guest rooms with prior approval.
+Related Topics:
+  HOSTEL_FEES; HOSTEL_RULES; CAMPUS_FACILITIES; CAMPUSES; STUDENT_LIFE; ANTI_RAGGING; MESS_FACILITIES; SECURITY
+
+[HOSTEL_RULES]
+Keywords: hostel rules; hostel regulations; hostel discipline; code of conduct; hostel guidelines; hostel policies; hostel timings; curfew; visitor policy; guest policy; hostel restrictions
+Aliases: hostel regulations; hostel code of conduct; hostel guidelines; hostel policies; hostel discipline rules; hostel do's and don'ts
+Question Variations:
+What are the hostel rules?
+Hostel regulations?
+Hostel code of conduct?
+What is not allowed in hostel?
+Hostel discipline rules?
+Overview: CUTM hostel rules are designed to ensure a safe, disciplined, and conducive living environment for all students. All residents must follow the hostel code of conduct.
+Details:
+  - Ragging is strictly prohibited as per UGC and university anti-ragging policy. Violators face severe disciplinary action including expulsion.
+  - Hostel timings: Students must be in the hostel by the designated curfew time (typically 8:00 PM - 9:00 PM depending on campus).
+  - Late entry requires prior written permission from the warden.
+  - Overnight absence must be informed to the warden in advance.
+  - Visitors are allowed only in designated visitor areas during specified hours.
+  - Overnight guests are not permitted without prior warden approval.
+  - Consumption of alcohol, tobacco, or any intoxicants is strictly prohibited.
+  - Possession of weapons, inflammable materials, or electrical appliances (heaters, irons, etc.) is not allowed without permission.
+  - Students are responsible for their room and belongings. Lockers are recommended for valuables.
+  - Maintaining cleanliness and hygiene in rooms and common areas is mandatory.
+  - Noise should be kept to a minimum, especially during study hours (7:00 PM - 6:00 AM).
+  - Damages to hostel property will be recovered from the concerned student(s).
+  - Room changes require hostel office approval.
+  - Students must carry their hostel ID card at all times.
+  - Mess timings must be followed.
+  - Parking of vehicles in designated areas only.
+Important Information:
+  - Rules apply to all residents regardless of gender, course, or campus.
+  - Violations may result in warnings, fines, disciplinary action, or expulsion from the hostel.
+  - The hostel warden has the authority to take disciplinary action as per university rules.
+  - Students can appeal disciplinary decisions to the Chief Warden or Dean of Student Welfare.
+  - Regular room inspections are conducted by hostel staff.
+  - First-time minor violations typically result in a warning; repeated violations lead to stricter action.
+FAQs:
+Q: What is the curfew time in hostels?
+A: Curfew time is typically 8:00 PM to 9:00 PM depending on the campus. Check with your campus hostel office for exact timings.
+Q: Can I have visitors in my room?
+A: Visitors are allowed only in designated visitor areas, not in student rooms. Prior approval from the warden is required.
+Q: Can my parents stay overnight in the hostel?
+A: Parents can stay in guest rooms with prior booking through the hostel office. They cannot stay in student rooms.
+Q: What happens if I break hostel rules?
+A: Consequences range from warnings to fines to disciplinary action, depending on the severity and frequency of violations.
+Q: Is cooking allowed in hostel rooms?
+A: Cooking is not allowed in hostel rooms. Mess facilities are provided for all meals.
+Q: Can I bring my own furniture or appliances?
+A: Electrical appliances like heaters, irons, and cooking devices are not allowed without permission. Furniture is provided by the hostel.
+Related Topics:
+  HOSTEL_OVERVIEW; HOSTEL_FEES; ANTI_RAGGING; STUDENT_LIFE; CAMPUS_FACILITIES; SECURITY
+
+[MESS_FACILITIES]
+Keywords: mess; canteen; food; dining; meal; mess fee; menu; vegetarian; non-vegetarian; special diet; meal plan; food court; cafeteria
+Aliases: dining facilities; mess services; food services; meal plans; canteen facilities; cafeteria services
+Question Variations:
+What mess facilities are available?
+What is the mess fee?
+Is there vegetarian food?
+What is the meal menu?
+How does the mess work?
+Overview: CUTM provides mess facilities in all hostels and campus canteens offering nutritious and hygienic meals. Separate mess arrangements exist for vegetarian and non-vegetarian students.
+Details:
+  - Mess facilities are available in all hostel complexes.
+  - Meal plans typically include breakfast, lunch, evening snacks, and dinner.
+  - Both vegetarian and non-vegetarian meal options are available.
+  - Special dietary requirements can be accommodated on request (medical or religious).
+  - Mess fees are separate from hostel fees and are typically paid per semester.
+  - Menu is planned by the mess committee with student representatives.
+  - Campus canteens and food courts are also available for students and staff.
+  - Hygienic food preparation and clean dining areas are maintained.
+  - Mess timings are displayed in the dining hall.
+Important Information:
+  - Mess fees are not included in hostel fees — they are charged separately.
+  - Students can choose meal plans based on their preferences.
+  - Feedback on food quality can be submitted to the mess committee or hostel office.
+  - Outside food delivery may be allowed in designated areas.
+  - Mess committee includes student representatives for menu planning and quality monitoring.
+FAQs:
+Q: Is mess fee included in hostel fee?
+A: No, mess fees are separate from hostel fees. They are charged based on the meal plan selected.
+Q: Is vegetarian food available?
+A: Yes, both vegetarian and non-vegetarian meal options are available in hostels.
+Q: Can I get special diet food?
+A: Special dietary requirements for medical or religious reasons can be accommodated on request.
+Q: Who decides the mess menu?
+A: The mess committee, which includes student representatives, plans the menu.
+Q: What are the mess timings?
+A: Mess timings are displayed in the dining hall and vary by campus. Typically breakfast is 7-9 AM, lunch 12-2 PM, snacks 4-5 PM, dinner 7-9 PM.
+Related Topics:
+  HOSTEL_OVERVIEW; HOSTEL_FEES; CAMPUS_FACILITIES; STUDENT_LIFE

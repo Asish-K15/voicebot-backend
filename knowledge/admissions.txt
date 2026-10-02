@@ -1,0 +1,262 @@
+[UG_ADMISSIONS]
+Keywords: undergraduate admission; BTech admission; BSc admission; BBA admission; BCom admission; CUEE exam; eligibility; entrance exam; 10+2 requirements
+Aliases: bachelor degree admission; UG courses; how to apply for BTech; undergraduate programs; Centurion University UG
+Overview: Undergraduate admissions at CUTM are offered across engineering, computing, management, agriculture, sciences, pharmacy, health sciences, design, law, and other schools.
+Details:
+  - Selection is based on qualifying examination merit, Centurion University Entrance Examination (CUEE) score, national or state entrance scores, counselling, or programme-specific requirements.
+  - Applicants must check the current eligibility and selection method for their chosen course and campus before applying.
+  - BTech programmes require 10+2 with Physics, Chemistry, and Mathematics at 50% marks with relaxation for reserved categories.
+  - BSc programmes require 10+2 in Science stream.
+  - BBA, BCom, and BA programmes require 10+2 in any stream.
+  - BSc Agriculture requires 10+2 with Physics, Chemistry, Biology at 60% from Odisha Board/CBSE/ICSE or 80% for AP Board.
+Important Information:
+  - Meeting minimum eligibility does not guarantee admission.
+  - Candidates must satisfy current selection criteria, document requirements, and seat availability conditions.
+  - All applicants must appear for CUEE unless exempted by programme-specific policy.
+Related Topics:
+  ELIGIBILITY; APPLICATION_PROCESS; CUEE_EXAM; DOCUMENTS
+
+[PG_ADMISSIONS]
+Keywords: postgraduate admission; MBA admission; MSc admission; master degree; eligibility; entrance exam; graduation required
+Aliases: master degree admission; PG courses; how to apply for MBA; postgraduate programs
+Overview: Postgraduate admission at CUTM requires a relevant bachelor's degree with programme-specific minimum marks, entrance score, portfolio, interview, or counselling requirement.
+Details:
+  - MBA requires graduation in any discipline plus entrance exam score.
+  - MSc programmes require BSc in the respective discipline.
+  - MPharm requires a BPharm degree with minimum 55% aggregate from a PCI-approved institution.
+  - MSc Forensic Science requires a bachelor's degree in Science, Forensic Science, Medicine, Engineering, Pharmacy, or related field with minimum 55%.
+  - MSc Cyber Security and Digital Forensics requires BE/BTech or BSc IT/CS/BCA or equivalent with minimum 55%.
+Important Information:
+  - Requirements vary by programme, so check the current programme page for exact eligibility.
+  - Reserved category candidates may receive relaxation as per university policy.
+Related Topics:
+  ELIGIBILITY; APPLICATION_PROCESS; CUEE_EXAM
+
+[DIPLOMA_ADMISSIONS]
+Keywords: diploma admission; diploma engineering; diploma pharmacy; vocational courses; 10th pass; lateral entry
+Aliases: diploma courses; polytechnic admission; vocational training
+Overview: Diploma programmes at CUTM are available in engineering, pharmacy, healthcare, vocational, and other fields with entry requirements varying by course.
+Details:
+  - Diploma Engineering requires 10th pass at 35% and 12th with Physics, Chemistry, Maths for lateral entry.
+  - Diploma Pharmacy requires 10+2 with Physics, Chemistry, Maths/Biology/Bioscience.
+  - Diploma Allied Health requires 10+2 in Science (NIOS +2 from any stream accepted).
+  - Certificate courses in Allied Health (2 years/1 year) require 10+2 in Science.
+  - Certified in Allied Health (6 months) requires 10th standard.
+Important Information:
+  - Lateral entry options are available for diploma holders.
+  - Verify campus availability, duration, and approval requirements before applying.
+Related Topics:
+  ELIGIBILITY; LATERAL_ENTRY; APPLICATION_PROCESS
+
+[PHD_ADMISSIONS]
+Keywords: PhD admission; doctoral programmes; research admission; PhD eligibility; entrance exam; research scholar
+Aliases: doctorate; research programmes; PhD application
+Overview: PhD admission at CUTM is available in approved research areas and normally requires a relevant postgraduate qualification, application review, and entrance test.
+Details:
+  - Admission involves a relevant postgraduate qualification, application review, national-level test scores where applicable, interview or research discussion, and university approval.
+  - Applicants should check the current PhD notification for vacancies, supervisor availability, exemptions, documents, fees, and deadlines.
+Important Information:
+  - Meeting minimum eligibility does not guarantee admission.
+  - Final selection depends on research proposal, interview performance, and available supervisor capacity.
+Related Topics:
+  APPLICATION_PROCESS; ELIGIBILITY
+
+[ELIGIBILITY]
+Keywords: BTech eligibility; BSc eligibility; MBA eligibility; minimum percentage; 10+2 requirements; lateral entry; CUEE score; admission criteria; academic qualifications; reserved category
+Aliases: who can apply; qualification requirements; entry requirements; minimum marks required; admission criteria; programme eligibility; course requirements
+Overview: Eligibility at CUTM is programme-specific. The following are general guidelines for the academic year 2025-26. Meeting minimum eligibility does not guarantee admission.
+Details:
+  - BTech (Mech, EEE, ECE, Civil, CSE, Aerospace, Mining): 10+2 with Physics, Chemistry, Maths at 50%, with 5% relaxation for reserved category.
+  - BTech (Ag, Dairy Tech, Phytopharma): 10+2 with Physics, Chemistry, Maths/Biology at 50%.
+  - BSc Allied Health: 10+2 with Physics, Chemistry, Maths/Biology at 50%.
+  - BSc: 10+2 with Physics, Chemistry, Maths/Biology.
+  - BSc IT: 10+2 with Physics, Chemistry, Maths.
+  - BSc Agriculture: 10+2 with Physics, Chemistry, Biology at 60% (Odisha Board/CBSE/ICSE) or 80% (AP Board).
+  - BFSc: 10+2 with Physics, Chemistry, Biology at 50%.
+  - BBA, BCom, BA: 10+2 in any stream.
+  - BPharm: 10+2 with Physics, Chemistry, Maths/Biology at 45%.
+  - BSc Forensic Science: 10+2 in Science with minimum 55% (General/OBC/EWS) or 50% (SC/ST/PwD).
+  - MBA: Graduation in any discipline with entrance exam.
+  - MPharm: BPharm with minimum 55% aggregate.
+  - MSc: BSc in respective discipline.
+  - MSc Forensic Science: Bachelor's degree in Science/Forensic Science/Medicine/Engineering/Pharmacy/Dentistry/AYUSH with minimum 55% (General/OBC/EWS) or 50% (SC/ST/PwD).
+  - MSc Cyber Security: BE/BTech/BSc IT/CS/BCA with minimum 55% (General/OBC/EWS) or 50% (SC/ST/PwD).
+  - MA: Graduation in any discipline.
+  - Lateral entry available for BTech (diploma holders), BSc Radiology, BSc MLT, BPharm.
+  - All programmes require Centurion University Entrance Exam (CUEE) score.
+Important Information:
+  - Minimum eligibility does not guarantee admission.
+  - Reserved category candidates may receive percentage relaxation as per government norms.
+  - Specific programmes may have additional entrance or interview requirements.
+Related Topics:
+  ADMISSION_PROCESS; CUEE_EXAM; APPLICATION_PROCESS; DOCUMENTS
+
+[APPLICATION_PROCESS]
+Keywords: how to apply; online application; admission steps; registration; CUEE application; application fee; apply online CUTM
+Aliases: how to get admission; admission procedure; enrollment process; apply to CUTM; Centurion University admission process
+Overview: The application process at CUTM involves registering on the admissions portal, completing the application form, appearing for CUEE if required, and completing document verification and fee payment.
+Details:
+  - Step 1: Register on CUEE-2026 through the university website at admissions.cutm.ac.in providing basic details and pay the application fee online.
+  - Step 2: On successful submission, the system generates an application ID and sends a confirmation email.
+  - Step 3: Appear for the Centurion University Entrance Examination (CUEE) on the scheduled date. The exam is online, proctored, and multiple choice format.
+  - Step 4: Qualified applicants may take provisional admission by depositing the minimum fee via UPI, online, card, or DD at the university campus or online.
+  - Step 5: For final admission, bring original documents and 4 photocopies for verification. Pay fees as mentioned in the provisional admission letter.
+  - Offline admission is available by calling the university support at 8260077222.
+  - Fee payment links: Balasore (https://rzp.io/rzp/CUTMBLSAdmission2026), Bhubaneswar (https://rzp.io/rzp/CUTMBBSR-Admission2026), Paralakhemundi (https://rzp.io/rzp/JITMPKD-Admissionfee2026).
+Important Information:
+  - The application fee for CUEE-2026 is Rs 299 (limited offer, originally Rs 600).
+  - Exam dates are communicated via email and SMS one week before the test.
+  - Applicants should monitor their registered email and phone for all communication.
+  - For offline admission assistance, call 8260077222.
+  - The cancellation and refund policy follows UGC guidelines for the same academic year.
+Related Topics:
+  ELIGIBILITY; CUEE_EXAM; DOCUMENTS; CONTACT
+
+[CUEE_EXAM]
+Keywords: CUEE; Centurion University Entrance Examination; CUEE exam; online exam; entrance test; CUEE 2026; admission test
+Aliases: entrance exam; university entrance test; CUEE registration; CUEE application
+Overview: The Centurion University Entrance Examination (CUEE) is the primary entrance exam for admission to CUTM courses. It is an online, multiple choice exam equivalent to national level entrance tests.
+Details:
+  - CUEE is an online proctored exam conducted by the university.
+  - The exam format is multiple choice questions at a standard equal to national level entrance exams.
+  - Candidates must register on admissions.cutm.ac.in and pay the application fee.
+  - Exam dates are displayed on www.cutm.ac.in and communicated to applicants one week before the test.
+  - Successful applicants receive provisional admission by depositing the minimum fee.
+Important Information:
+  - Application fee: Rs 299 (limited offer, originally Rs 600).
+  - Exam date updates are sent to registered email and mobile number.
+  - All applicants for CUTM courses must appear for CUEE unless programme-specific policy states otherwise.
+Related Topics:
+  ELIGIBILITY; APPLICATION_PROCESS; ADMISSION_PROCESS
+
+[ADMISSION_PROCESS]
+Keywords: admission process; how to get admission; CUEE steps; provisional admission; final admission; document verification; fee payment
+Aliases: admission procedure; step by step admission; enrollment process; apply to CUTM
+Overview: Candidates seeking admission to CUTM courses are required to appear for the Centurion University Entrance Examination (CUEE) conducted by the University, followed by application, document verification, and fee payment.
+Details:
+  - Application: Visit the CUEE 2026 tab on www.cutm.ac.in and fill the online application form.
+  - Registration: Register on admissions.cutm.ac.in, provide basic details, and pay the application fee online. An application ID is generated upon successful submission.
+  - Entrance Exam: Appear for CUEE online through the proctored method on the scheduled date.
+  - Provisional Admission: Qualified applicants may take provisional admission by depositing the minimum fee.
+  - Final Admission: Bring original documents and 4 photocopies for verification, then pay the remaining fees as per the provisional admission letter.
+  - Offline Admission: Call the university support at 8260077222 for offline admission assistance.
+  - Refund Policy: The university follows the UGC cancellation and refund policy for the same academic year.
+Important Information:
+  - Required documents for verification: qualifying mark sheets, certificates, rank/score card, Aadhaar, PAN (if requested), payment receipt, and photographs.
+  - Fee payment can be made via UPI, online transfer, card, or DD.
+  - For cancellation and refund, UGC guidelines apply.
+  - Contact admissions support at 8260077222.
+Related Topics:
+  ELIGIBILITY; CUEE_EXAM; DOCUMENTS; CONTACT
+
+[ONLINE_APPLICATION]
+Keywords: apply online; CUEE registration; online application form; admissions portal; register for CUEE; application portal
+Aliases: online admission; submit application; CUEE 2026 registration; online form
+Overview: The online application process for CUEE 2026 involves registration on the university admissions portal, providing personal details, and completing verification.
+Details:
+  - Provide mobile number or email ID to begin registration.
+  - Validate email ID or mobile by entering the OTP code sent via email or SMS.
+  - Fill in relevant personal details and programme preferences.
+  - Pay the application fee and submit.
+  - The system generates an application ID and sends a confirmation email.
+Important Information:
+  - Application fee is Rs 299 (limited offer, originally Rs 600).
+  - At any stage, if instructions are not adhered to, it may lead to disqualification of candidature.
+  - Keep your application ID safe for future reference.
+Related Topics:
+  APPLICATION_PROCESS; ELIGIBILITY; CUEE_EXAM
+
+[DOCUMENTS]
+Keywords: required documents; document verification; mark sheets; certificates; Aadhaar; PAN; payment receipt; photographs; original documents
+Aliases: documents needed; what to bring for admission; verification documents; admission checklist
+Overview: For final admission verification, applicants must bring original documents and four photocopies of required records as specified by the university.
+Details:
+  - Qualifying mark sheets (Class 10, Class 12, graduation as applicable).
+  - Pass certificates of qualifying examinations.
+  - Entrance rank or score card (CUEE or national/state exam).
+  - Aadhaar card and PAN card (where requested).
+  - Payment receipt for fees paid.
+  - Passport-sized photographs.
+  - International applicants also require a valid passport and visa.
+  - Programme-specific documents such as migration certificate, transfer certificate, category certificate, residence proof, medical certificate, or regulatory documents may also be required.
+Important Information:
+  - Bring original documents and 4 photocopies of each.
+  - Document verification is mandatory before final registration.
+  - Without proper documents, admission may be cancelled.
+Related Topics:
+  APPLICATION_PROCESS; ADMISSION_PROCESS; CONTACT
+
+[IMPORTANT_DATES]
+Keywords: admission deadlines; CUEE exam date; application deadline; counselling date; fee payment deadline; class commencement
+Aliases: important dates; admission schedule; exam schedule; academic calendar
+Overview: Application deadlines, entrance examination dates, counselling dates, fee payment deadlines, reporting dates, and class commencement dates vary by admission session and programme.
+Details:
+  - Check the live official admissions portal for current schedule.
+  - Exam date updates are sent to registered email and mobile one week before CUEE.
+  - Fee payment deadlines are specified in the provisional admission letter.
+Important Information:
+  - Do not rely on dates from previous years or older advertisements.
+  - Always use the current admissions portal for the latest schedule.
+  - Monitor registered email and phone for all date-related communication.
+Related Topics:
+  APPLICATION_PROCESS; ADMISSION_PROCESS; CONTACT
+
+[DIRECT_ADMISSION]
+Keywords: direct admission; lateral entry; management quota; spot admission; without CUEE
+Aliases: direct entry; walk-in admission; admission without exam
+Overview: CUTM offers lateral entry and direct admission options for specific programmes. Lateral entry is available for diploma holders and graduates in relevant fields.
+Details:
+  - Lateral entry is available for BTech (diploma holders), BSc Radiology, BSc MLT, BPharm, and Diploma programmes.
+  - B.Tech (LE) accepts candidates with a Diploma in Engineering.
+  - B.Pharm (LE) accepts candidates with a Diploma in Pharmacy.
+  - B.Sc. Radiology (LE) accepts B.Sc. MLT holders.
+  - Offline admission is available by calling 8260077222.
+Important Information:
+  - Direct admission without CUEE may be available for certain programmes - contact the admissions office to confirm.
+  - Lateral entry candidates must meet programme-specific eligibility criteria.
+Related Topics:
+  ELIGIBILITY; APPLICATION_PROCESS; CONTACT
+
+[FAQ]
+Keywords: admission FAQ; common questions; which campus offers; entrance required; fee scholarship; hostel; refund rules
+Aliases: frequently asked questions; admission help; admission queries
+Overview: Common admission questions include which campus offers a programme, whether CUEE or another entrance score is required, minimum eligibility, lateral entry, documents, fees, scholarships, hostel availability, refund rules, and reporting dates.
+Details:
+  - Answers vary by programme and admission session.
+  - Identify the exact course and campus before confirming details.
+  - Use the official admissions portal or support team for accurate answers.
+Important Information:
+  - Do not rely on third-party sources for admission information.
+  - Contact the university directly for programme-specific queries.
+Related Topics:
+  APPLICATION_PROCESS; ELIGIBILITY; CONTACT
+
+[CONTACT]
+Keywords: admissions contact; phone; toll free; support; admission helpline; CUTM contact; admissions office
+Aliases: contact admissions; call admissions; email admissions; admission help; reach CUTM
+Overview: For admission-related queries, contact the university admissions support team through the following channels.
+Details:
+  - Toll Free Number: 8260077222
+  - WhatsApp: 7735627796
+  - Online Admission Portal: https://admissions.cutm.ac.in
+  - University Website: https://cutm.ac.in
+  - Fee Payment Links: Balasore (https://rzp.io/rzp/CUTMBLSAdmission2026), Bhubaneswar (https://rzp.io/rzp/CUTMBBSR-Admission2026), Paralakhemundi (https://rzp.io/rzp/JITMPKD-Admissionfee2026)
+Important Information:
+  - For offline admission assistance, call the toll-free number.
+  - Monitor registered email and phone for all admission communication.
+  - Use the official admissions portal for application status and updates.
+Related Topics:
+  APPLICATION_PROCESS; ADMISSION_PROCESS; DOCUMENTS
+
+[REFUND_POLICY]
+Keywords: admission cancellation; refund policy; fee refund; UGC refund policy; cancellation rules
+Aliases: cancel admission; withdrawal; fee refund rules; cancellation guidelines
+Overview: CUTM follows the cancellation and refund policy issued by UGC for the same academic year.
+Details:
+  - Admission cancellation requests are processed as per UGC guidelines.
+  - Fee refund is done according to the declared UGC policy for the academic year.
+Important Information:
+  - Contact the admissions office for specific refund timelines and procedures.
+  - Refund eligibility depends on the time of cancellation relative to the academic session start.
+Related Topics:
+  ADMISSION_PROCESS; CONTACT; APPLICATION_PROCESS

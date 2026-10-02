@@ -1,0 +1,379 @@
+[UNIVERSITY_INFORMATION]
+Keywords: about CUTM; university overview; Centurion University; established; type; accreditation; recognition; CUTM details; university background
+Aliases: about the university; university details; CUTM background; institutional information; Centurion University of Technology and Management
+Overview: Centurion University of Technology and Management (CUTM) is a private university in Odisha, India, known for its skill-integrated higher education model.
+Details:
+  - Full Name: Centurion University of Technology and Management (CUTM).
+  - Type: Private University.
+  - Established: 2010 (under the Centurion University of Technology and Management Act, 2010).
+  - Campuses: Located in Odisha (Paralakhemundi, Bhubaneswar, Balangir, Rayagada, Balasore, Chatrapur) and Andhra Pradesh (Vizianagaram).
+  - Focus: Skill-integrated higher education with industry-linked production labs and experiential learning.
+  - The university is recognised by UGC and other relevant regulatory bodies.
+Important Information:
+  - For official recognition and accreditation details, check the university website.
+  - Programme-specific approvals vary by discipline.
+  - The university's main administrative office is located at Bhubaneswar.
+Related Topics:
+  VISION; MISSION; LEADERSHIP_TEAM; CAMPUSES; ACADEMIC_PROGRAMS
+
+[VISION]
+Keywords: vision; university vision; educational vision; CUTM vision; quality education; employability; skill development; institutional vision
+Aliases: vision statement; university goals; institutional vision; CUTM vision and mission
+Overview: The university's vision is centered on quality education, employability, skill development, innovation, inclusion, and social responsibility.
+Details:
+  - Centurion University aims to be a leading institution in skill-integrated higher education.
+  - The vision emphasises creating industry-ready graduates through experiential learning.
+  - The university is committed to advancing the United Nations Sustainable Development Goals through its academic mission.
+Important Information:
+  - The vision guides the university's strategic planning and academic programmes.
+  - Vision statements may be updated periodically by the university leadership.
+Related Topics:
+  MISSION; LEADERSHIP_TEAM; ACADEMIC_PROGRAMS; UNIVERSITY_INFORMATION
+
+[MISSION]
+Keywords: mission; university mission; institutional mission; CUTM mission; global professionals; experiential learning; industry collaboration; institutional objectives
+Aliases: mission statement; university purpose; institutional objectives; CUTM mission statement
+Overview: The mission of the university is to create globally competent professionals through experiential learning, industry collaboration, and technology-enabled education.
+Details:
+  - To provide quality education that fosters academic excellence, professional skills, and personal development.
+  - To promote research, innovation, and entrepreneurship among students and faculty.
+
+
+
+  - To build strong industry linkages for internships, placements, and collaborative projects.
+  - To serve the community through outreach programmes and social responsibility initiatives.
+Important Information:
+  - The mission is implemented through the university's academic programmes, research centres, and community engagement activities.
+  - Mission statements may be updated periodically by the university leadership.
+Related Topics:
+  VISION; LEADERSHIP_TEAM; ACADEMIC_PROGRAMS; UNIVERSITY_INFORMATION
+
+[LEADERSHIP_TEAM]
+Keywords: leadership; president; vice chancellor; founder; registrar; pro vice chancellor; university leadership; CUTM leaders; chancellor; top management; governing body
+Aliases: who leads CUTM; university administration; top management; governing body; CUTM leadership; university officials; senior management
+Overview: The leadership team at Centurion University is led by the President and Founder, supported by the Vice Chancellor, Pro Vice Chancellors, Registrar, and other senior officials.
+Details:
+  - Prof. Mukti Kanta Mishra: President and Founder
+  - Prof. D.N. Rao: Co-Founder and Vice President
+  - Prof. Supriya Pattanayak: Vice Chancellor
+  - Dr. Biswajit Mishra: Pro Vice Chancellor
+  - Dr. Ajay Kumar Nayak: Pro Vice Chancellor
+  - Prof. Anita Patra: Registrar
+  - Mr. Debasish Panda: Comptroller of Finance
+Important Information:
+  - Leadership team members may change over time. Check the university website for the current list.
+  - Each leader has specific portfolios and responsibilities within the university.
+  - Official contact details for leadership members are published on the university website.
+Related Topics:
+  ADMINISTRATORS; DEANS; CHANCELLOR; CONTACT; GOVERNING_BODY
+
+[CHANCELLOR]
+Keywords: chancellor; chancellor of CUTM; university chancellor; ceremonial head; chief patron; university head
+Aliases: who is the chancellor; CUTM chancellor; chancellor office
+Overview: The Chancellor is the ceremonial head of the university. Information about the current Chancellor is published on the official CUTM website.
+Details:
+  - The Chancellor is the highest ceremonial authority of the university.
+  - The Chancellor presides over convocation ceremonies and other major university events.
+  - The Chancellor is appointed as per the Centurion University of Technology and Management Act.
+Important Information:
+  - Official information about the current Chancellor is available on the CUTM website.
+  - For the most current information, visit the official CUTM website or contact the university administration.
+  - The Chancellor's office is part of the university's governance structure.
+Related Topics:
+  LEADERSHIP_TEAM; VICE_CHANCELLOR; GOVERNING_BODY; CONVOCATION
+
+[VICE_CHANCELLOR]
+Keywords: vice chancellor; VC; vice chancellor CUTM; university vice chancellor; academic head; chief academic officer; VC office
+Aliases: who is the vice chancellor; CUTM VC; vice chancellor office; academic administration head
+Overview: The Vice Chancellor is the chief academic and administrative officer of the university. The current Vice Chancellor of Centurion University is Prof. Supriya Pattanayak.
+Details:
+  - Prof. Supriya Pattanayak is the Vice Chancellor of Centurion University.
+  - The Vice Chancellor is responsible for the academic administration, implementation of university policies, and overall management of the university.
+  - The Vice Chancellor reports to the Chancellor and the Governing Body of the university.
+Important Information:
+  - The Vice Chancellor's official communication is published through university channels.
+  - For direct communication, contact through the university's official administration office.
+  - Vice Chancellor appointments are made by the university's governing authority.
+Related Topics:
+  LEADERSHIP_TEAM; CHANCELLOR; PRO_VICE_CHANCELLOR; REGISTRAR; GOVERNING_BODY
+
+[PRO_VICE_CHANCELLOR]
+Keywords: pro vice chancellor; PVC; pro VC; deputy vice chancellor; associate vice chancellor; pro vice chancellor CUTM
+Aliases: who are the pro vice chancellors; CUTM pro VC; deputy VC; associate VC
+Overview: Pro Vice Chancellors assist the Vice Chancellor in academic and administrative functions. Centurion University has two Pro Vice Chancellors.
+Details:
+  - Dr. Biswajit Mishra: Pro Vice Chancellor
+  - Dr. Ajay Kumar Nayak: Pro Vice Chancellor
+  - Pro Vice Chancellors support the Vice Chancellor in specific portfolios and campus coordination.
+Important Information:
+  - Pro Vice Chancellor roles and responsibilities may be assigned by the Vice Chancellor.
+  - Contact through the university administration office for specific communications.
+Related Topics:
+  VICE_CHANCELLOR; LEADERSHIP_TEAM; REGISTRAR; ADMINISTRATORS
+
+[REGISTRAR]
+Keywords: registrar; register; registration office; registrar office; administration office; academic registrar; university registrar; CUTM registrar; administrative officer
+Aliases: who is the registrar; registrar CUTM; registrar contact; registrar office; academic registrar; registrar of examinations
+Overview: The Registrar is the custodian of academic records and is responsible for admissions, examinations, student records, and academic administration. The current Registrar of Centurion University is Prof. Anita Patra.
+Details:
+  - Prof. Anita Patra is the Registrar of Centurion University.
+  - The Registrar's responsibilities include maintaining student academic records, issuing transcripts and certificates, managing admissions and examination processes, overseeing registration and enrolment, and coordinating academic administration.
+  - The Registrar works closely with the Vice Chancellor, Deans, and the Examination Office.
+Important Information:
+  - For academic records, transcript requests, and certificate verification, contact the Registrar's office.
+  - Official communication should be directed through the university's administrative channels.
+  - The Registrar's office is typically located at the main administrative office in Bhubaneswar.
+Related Topics:
+  CONTROLLER_OF_EXAMINATIONS; DEAN_OF_STUDENTS; ADMISSIONS_OFFICE; EXAMINATION_OFFICE; ACADEMIC_ADMINISTRATION; CONTACT
+
+[ADMINISTRATORS]
+Keywords: administrators; directors; admissions director; international relations; sports director; administration director; CUTM directors; director of admissions; director of sports; director of administration
+Aliases: university administrators; administrative officers; director positions; CUTM director list
+Overview: The university administration includes directors who manage key functional areas such as admissions, international relations, sports, and administration.
+Details:
+  - Mr. Sukanta Parida: Director of Admissions and Marketing
+  - Ms. Monalisha Ghosh: Director of International Relationships and Government Partnerships
+  - Prof. Rabi Narayan Routray: Director of Sports
+  - Prof. Durga Prasad Padhi: Professor and Director of Administration
+Important Information:
+  - Administrative roles and personnel may change. Verify current appointments on the university website.
+  - These directors report to the Vice Chancellor and leadership team.
+  - Each director manages a specific functional area with dedicated staff.
+Related Topics:
+  LEADERSHIP_TEAM; DEANS; CONTACT; ADMISSIONS_OFFICE
+
+[DEANS]
+Keywords: deans; academic deans; dean of school; dean of examinations; dean of students; dean of research; CUTM deans; school deans; faculty deans
+Aliases: faculty deans; school deans; dean list; academic leadership; list of deans CUTM
+Overview: Centurion University has deans who lead academic schools, examinations, student welfare, and special initiatives across campuses.
+Details:
+  - Dr. S.P. Nanda: Dean of Administration (MSSSoA, SoF, SoABE and SoVAS)
+  - Dr. Sangram Keshari Swain: Dean of Examinations and Dean of Students' Welfare
+  - Prof. (Dr.) Prafulla Kumar Panda: Dean of SoET and SoCDS
+  - Prof. (Dr.) Gurudutta Pattanik: Dean of School of Pharmacy and Life Sciences
+  - Dr. Soumya Jal: Associate Professor and Dean of SoAHS (School of Allied Health Sciences)
+  - Dr. Satyasis Mishra: Dean of Sustainable Development Goals
+  - Dr. Pramod Kumar Patjoshi: Professor and Associate Dean
+  - Dr. Pallab Das: Dean of SoL (School of Law)
+  - Dr. Yashaswi Nayak: Professor, Department of Zoology
+Important Information:
+  - Dean assignments may change each academic year.
+  - Contact the specific dean for school-specific academic queries.
+  - The Dean of Students' Welfare handles student-related concerns.
+  - The Dean of Examinations oversees examination-related matters.
+Related Topics:
+  LEADERSHIP_TEAM; ADMINISTRATORS; CONTACT; CONTROLLER_OF_EXAMINATIONS; DEAN_OF_STUDENTS
+
+[CONTROLLER_OF_EXAMINATIONS]
+Keywords: controller of examinations; examination controller; exam controller; COE; examination office head; exams officer; controller of exam
+Aliases: who is the controller of examinations; CUTM COE; examination controller; exam department head
+Overview: The Controller of Examinations is responsible for the conduct of examinations, results processing, and publication of academic outcomes. Specific details about the current Controller of Examinations are published on the university website.
+Details:
+  - The Controller of Examinations oversees end-semester examinations, supplementary examinations, result processing and publication, and examination scheduling.
+  - The office coordinates with the Dean of Examinations and the Registrar's office.
+  - The Controller of Examinations ensures examination integrity and timely result declaration.
+Important Information:
+  - Official information about the current Controller of Examinations is available on the CUTM website.
+  - For examination-related queries, contact the examination office through the university's administrative channels.
+  - Examination schedules, results, and related notifications are published on the university examination portal.
+Related Topics:
+  DEANS; REGISTRAR; EXAMINATION_OFFICE; EXAMINATION_SYSTEM; ACADEMIC_ADMINISTRATION
+
+[DEAN_OF_STUDENTS]
+Keywords: dean of students; student welfare; student dean; student affairs; student services dean; student support dean; DOS
+Aliases: who is the dean of students; CUTM dean of students; student welfare dean; student affairs head
+Overview: The Dean of Students' Welfare is responsible for student support services, welfare activities, grievance handling, and overall student well-being. Dr. Sangram Keshari Swain serves as the Dean of Examinations and Dean of Students' Welfare.
+Details:
+  - Dr. Sangram Keshari Swain: Dean of Examinations and Dean of Students' Welfare.
+  - The Dean of Students' Welfare handles student-related concerns, welfare activities, and support services.
+  - The office coordinates with the Career Development Cell, sports office, cultural committees, and hostel administration.
+Important Information:
+  - Students with welfare-related concerns should approach the Dean of Students' Welfare office.
+  - The Dean of Students' Welfare works closely with the grievance redressal committee and anti-ragging committee.
+  - Contact through the campus administration or student welfare office.
+Related Topics:
+  DEANS; GRIEVANCE; ANTI_RAGGING; COUNSELLING; STUDENT_LIFE; CONTACT
+
+[ACADEMIC_ADMINISTRATION]
+Keywords: academic administration; academic office; academic affairs; curriculum coordination; academic policies; academic governance; academic council
+Aliases: academic administration office; academic affairs office; academic governance; academic policies and procedures
+Overview: Academic Administration at CUTM oversees curriculum development, academic policies, programme coordination, faculty matters, and academic governance through the Academic Council and related bodies.
+Details:
+  - Academic Administration manages curriculum design and revision, academic policy implementation, programme coordination across schools, faculty recruitment and development, and quality assurance.
+  - The Academic Council is the highest academic body of the university.
+  - School-specific academic administration is handled by respective Deans and Department Heads.
+Important Information:
+  - Specific details about academic administration processes are available through the Registrar's office.
+  - Contact the respective Dean or Department Head for school-specific academic queries.
+  - Academic policies are published through official university channels.
+Related Topics:
+  REGISTRAR; DEANS; CURRICULUM; EXAMINATION_SYSTEM; GOVERNING_BODY
+
+[GOVERNING_BODY]
+Keywords: governing body; board of governors; board of management; university governance; university board; CUTM governing body; governing council
+Aliases: board of governors; management board; university council; governing council; statutory bodies
+Overview: CUTM is governed by statutory bodies as per the Centurion University of Technology and Management Act. The governing structure includes the Governing Body, Academic Council, Finance Committee, and other statutory committees.
+Details:
+  - The Governing Body is the highest authority of the university.
+  - The Academic Council oversees academic matters including curriculum, research, and academic standards.
+  - The Finance Committee manages financial oversight and budgetary approvals.
+  - Other committees include the Planning Board, Board of Studies, and various standing committees.
+Important Information:
+  - Official information about the composition of governing bodies is available on the CUTM website.
+  - Governing body members include eminent academicians, industry leaders, and government nominees.
+  - Contact the Registrar's office for specific governance-related queries.
+Related Topics:
+  LEADERSHIP_TEAM; ACADEMIC_ADMINISTRATION; CHANCELLOR; VICE_CHANCELLOR; REGISTRAR
+
+[FINANCE_OFFICE]
+Keywords: finance office; accounts; finance department; fee payment; accounts office; finance officer; comptroller of finance; payment queries; financial services
+Aliases: accounts office; finance department; finance and accounts; CUTM finance; accounts section
+Overview: The Finance Office manages the university's financial operations including fee collection, payments, accounting, budgeting, and financial reporting. The Comptroller of Finance is Mr. Debasish Panda.
+Details:
+  - Mr. Debasish Panda: Comptroller of Finance.
+  - The Finance Office handles fee collection and receipts, refund processing, payroll and vendor payments, budgeting and financial planning, and scholarship disbursement.
+  - Payment queries should be directed to the Finance Office.
+Important Information:
+  - Official information about the Finance Office and its procedures is available on the CUTM website.
+  - For fee-related queries, contact the Finance Office through the university's administrative channels.
+  - Payment receipts and financial documents are issued by the Finance Office.
+Related Topics:
+  REGISTRAR; SCHOLARSHIPS; PAYMENT_METHODS; REFUND_POLICY; ADMISSIONS_OFFICE
+
+[ADMISSIONS_OFFICE]
+Keywords: admissions office; admission office; admission department; admissions department; admission cell; admission help; admission support; CUTM admissions
+Aliases: admission office; admissions department; admission cell; admission help desk; admissions help
+Overview: The Admissions Office manages the admission process for all programmes at CUTM. The Director of Admissions is Mr. Sukanta Parida.
+Details:
+  - Mr. Sukanta Parida: Director of Admissions and Marketing.
+  - The Admissions Office handles application processing and counselling, CUEE administration, document verification, admission counselling and queries, and fee collection coordination.
+  - The office operates through the online admissions portal and offline support channels.
+Important Information:
+  - Contact the Admissions Office through the toll-free number 8260077222 or the online admission portal at admissions.cutm.ac.in.
+  - The admissions office also supports offline admission assistance.
+  - For programme-specific admission queries, contact the respective school or the admissions helpline.
+Related Topics:
+  APPLICATION_PROCESS; ADMISSION_PROCESS; CUEE_EXAM; CONTACT; ELIGIBILITY
+
+[EXAMINATION_OFFICE]
+Keywords: examination office; exam office; examination department; exam department; exams branch; examination cell; results office; exam queries
+Aliases: exams office; examination department; examination cell; results office; exam section
+Overview: The Examination Office manages the conduct of examinations, results processing, and academic recordkeeping in coordination with the Controller of Examinations and the Dean of Examinations.
+Details:
+  - The Examination Office is responsible for examination scheduling and timetabling, question paper management, conduct of examinations across campuses, result processing and publication, and issuance of grade sheets and transcripts.
+  - The office works under the supervision of the Dean of Examinations and the Controller of Examinations.
+Important Information:
+  - Official information about the Examination Office is available on the CUTM website.
+  - For examination-related queries, contact through the university's administrative channels.
+  - Examination schedules, results, and related notifications are published on the university examination portal.
+Related Topics:
+  CONTROLLER_OF_EXAMINATIONS; DEANS; EXAMINATION_SYSTEM; REGISTRAR; ACADEMIC_CALENDAR
+
+[PUBLIC_RELATIONS]
+Keywords: public relations; PR; media relations; communications; press; media contact; public information; publicity; CUTM media
+Aliases: media relations; corporate communications; PR office; press relations; media inquiries
+Overview: Public Relations and Communications at CUTM manages media relations, press releases, official communications, and public information dissemination.
+Details:
+  - The Public Relations office handles media inquiries and press releases, official university communications, event publicity and coverage, internal communications, and social media management.
+  - News and updates are published through the university website and official social media channels.
+Important Information:
+  - Official information about the Public Relations office is available on the CUTM website.
+  - For media inquiries, contact through the university's official communication channels.
+  - Follow CUTM's official social media channels for the latest updates and announcements.
+Related Topics:
+  NEWS; EVENTS; CONTACT; UNIVERSITY_INFORMATION; COMMUNICATION
+
+[CONTACT]
+Keywords: contact; address; phone; email; CUTM contact; university address; administrative office; reach CUTM; contact information; phone number; email address; mailing address
+Aliases: contact us; reach us; university contact; CUTM phone number; CUTM email; how to contact CUTM; CUTM address; reach administration
+Overview: Centurion University's main administrative office is located in Bhubaneswar. The university has campuses across Odisha and Andhra Pradesh with campus-specific contact details.
+Details:
+  - Main Administrative Office: HIG-4, Floor 1 and 2, Jaydev Vihar, Opp Pal Heights, Bhubaneswar, Dist: Khurda, Odisha, India.
+  - Toll Free Number: 8260077222 (for admissions and general inquiries).
+  - WhatsApp: 7735627796.
+  - Official Website: https://cutm.ac.in.
+  - Online Admission Portal: https://admissions.cutm.ac.in.
+  - Paralakhemundi Campus: Village Alluri Nagar, P.O. R Sitapur, Via Uppalada, Paralakhemundi, Gajapati, Odisha 761211. Phone: +91 82600 77222.
+  - Bhubaneswar Campus: Ramchandrapur, P.O. Jatni, Bhubaneswar, Khurda, Odisha 752050. Phone: +91 82600 77222.
+  - Balangir Campus: Behind BSNL office, IDCO land, Rajib Nagar, Balangir 767001. Phone: 06652-235641/235642/235644.
+  - Rayagada Campus: IDCO Industrial Area, Pitamahal, Rayagada, Odisha. Phone: 7008211184, 9861875762.
+  - Balasore Campus: At Paikasta, Po Gopalpur, Block Bahanaga 756044.
+  - Chatrapur Campus: Industrial Estate, Kaliabali Chhaka, Chatrapur, Ganjam 761045.
+Important Information:
+  - For admission-related queries, call the toll-free number or use the online admission portal.
+  - For specific campus queries, contact the respective campus directly.
+  - Email contact forms are available on the university website.
+  - Office hours and administrative working days follow the university calendar.
+Related Topics:
+  LEADERSHIP_TEAM; CAMPUSES; ADMISSION_PROCESS; ADMINISTRATIVE_OFFICE_HOURS
+
+[ADMINISTRATIVE_OFFICE_HOURS]
+Keywords: office hours; working hours; administrative hours; university office timings; office timing; campus office hours; administration timing; CUTM office hours
+Aliases: office timings; administrative office hours; university working hours; campus office timings; when is the office open; what time does the office close
+Overview: Administrative office hours at CUTM follow standard working days and timings. Specific office hours may vary by campus and department.
+Details:
+  - Administrative offices are generally open on all working days (Monday to Friday).
+  - Some offices may also be open on Saturdays for specific services.
+  - Offices are closed on Sundays and public holidays as per the university calendar.
+  - Specific timing details are published on the CUTM website and at campus notice boards.
+Important Information:
+  - Office hours may vary between campuses and different administrative departments.
+  - Some offices may have extended hours during admission periods or examination seasons.
+  - For the most accurate and current office hours, check the official CUTM website or contact the specific office directly.
+  - Academic and examination schedules follow the university calendar published at the start of each academic year.
+Related Topics:
+  CONTACT; CAMPUSES; ACADEMIC_CALENDAR; ADMISSIONS_OFFICE; EXAMINATION_OFFICE
+
+[RTI]
+Keywords: RTI; right to information; public information; information act; RTI application; public information officer; transparency; CUTM RTI
+Aliases: right to information; RTI act; public information officer; information request; transparency office
+Overview: Centurion University complies with the Right to Information (RTI) Act. Information about the RTI application process and the Public Information Officer is available on the university website.
+Details:
+  - RTI applications can be submitted as per the provisions of the RTI Act.
+  - The university designates a Public Information Officer (PIO) for handling RTI requests.
+  - Information about the procedure, fees, and contact details for RTI applications is published on the CUTM website.
+Important Information:
+  - Official RTI-related information is available on the CUTM website.
+  - For RTI-related queries, visit the CUTM website or contact the Registrar's office.
+  - RTI applications should be submitted as per the prescribed format and procedure.
+Related Topics:
+  CONTACT; REGISTRAR; UNIVERSITY_INFORMATION; GOVERNING_BODY
+
+[CAMPUS_ADMINISTRATION]
+Keywords: campus administration; campus office; campus director; campus head; campus administration contact; campus management; campus authorities
+Aliases: campus administration office; campus director; campus head; campus management; campus administrative office
+Overview: Each CUTM campus has its own administrative setup with a campus director or designated administrator responsible for campus-specific operations, facilities, and student services.
+Details:
+  - Each campus has a designated administrative head or campus director.
+  - Campus administration manages campus-specific operations, facilities and infrastructure, student services, and coordination with central administration.
+  - For campus-specific queries, contact the respective campus administration office.
+Important Information:
+  - Official information about campus administration contacts is available on the CUTM website.
+  - Contact the specific campus directly for campus-specific queries.
+  - Campus administration offices follow the standard office hours of the respective campus.
+Related Topics:
+  CAMPUSES; CONTACT; ADMINISTRATIVE_OFFICE_HOURS; STUDENT_LIFE
+
+[FREQUENTLY_ASKED_QUESTIONS]
+Keywords: administration FAQ; common administration questions; who is who; administration queries; university officials FAQ
+Aliases: frequently asked questions about administration; administration help; administration queries; who's who at CUTM
+Overview: Common questions about CUTM administration include who holds specific positions, how to contact administration offices, and where to find official information.
+Details:
+  - Who is the Vice Chancellor? Prof. Supriya Pattanayak is the Vice Chancellor of Centurion University.
+  - Who is the Registrar? Prof. Anita Patra is the Registrar of Centurion University.
+  - Who is the President and Founder? Prof. Mukti Kanta Mishra is the President and Founder.
+  - Who is the Comptroller of Finance? Mr. Debasish Panda is the Comptroller of Finance.
+  - Who is the Director of Admissions? Mr. Sukanta Parida is the Director of Admissions and Marketing.
+  - Who is the Dean of Examinations? Dr. Sangram Keshari Swain is the Dean of Examinations.
+  - How can I contact the university administration? Call the toll-free number 8260077222 or visit the official website cutm.ac.in.
+  - Where is the main administrative office located? HIG-4, Floor 1 and 2, Jaydev Vihar, Opp Pal Heights, Bhubaneswar, Odisha.
+  - What are the administrative office hours? Administrative offices are generally open on working days (Monday to Friday). Specific timings are published on the CUTM website.
+  - Who is the Controller of Examinations? Official information about the current Controller of Examinations is published on the CUTM website.
+  - What is the toll-free number? 8260077222.
+  - How can I get information under RTI? Visit the CUTM website for RTI application procedures and contact details.
+Important Information:
+  - Official contact details and leadership information are published on the university website.
+  - For the most current information, always check the official website or contact the university administration.
+  - Leadership positions and personnel may change over time.
+Related Topics:
+  LEADERSHIP_TEAM; REGISTRAR; CONTACT; ADMISSIONS_OFFICE; EXAMINATION_OFFICE; ADMINISTRATIVE_OFFICE_HOURS
